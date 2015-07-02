@@ -23,7 +23,7 @@ But what if I asked:
 **How would you to move, permanently, to Albuquerque right now?**
 
 
-Did that seem overwhelming? Confusing? Why is that? Well, first of all, humans are really bad at too many arbitrary choices. Baumeister, Bratslavsky, Muraven, and Tice (1998) showed pretty definitively that choice has a psychic cost. And the more choices we feel compelled to make (“have to” instead of “get to”), the higher the cost (Moller, Deci, & Ryan, 2006). So when I ask you “How would you to move, permanently, to Albuquerque?” the very size and impact of the answer you’re compelled to give me is probably so daunting that it’s almost inconceivable to answer. And all the options, steps, choices, and decisions can slam the door on any hope of forward progress. When we talk about “what you need to do” with our clients, this is part of the disconnect.	
+Did that seem overwhelming? Confusing? Why is that? Well, first of all, humans are really bad at too many arbitrary choices. Baumeister, Bratslavsky, Muraven, and Tice (1998) showed pretty definitively that choice has a psychic cost. And the more choices we feel compelled to make (“have to” instead of “get to”), the higher the cost (Moller, Deci, & Ryan, 2006). So when I ask you “How would you to move, permanently, to Albuquerque?” the very size and impact of the answer you’re compelled to give me is probably so daunting that it’s almost inconceivable to answer. And all the options, steps, choices, and decisions can slam the door on any hope of forward progress. When we talk about “what you need to do” with our clients, this is part of the disconnect.  
 
 Secondly, instead of asking “how do you get to Albuquerque,” I asked “how  would you move to Albuquerque.” Many clients come to us to “lose weight” or “rehab an injury.” But we know that losing weight, improving movement quality, and changing lifestyle is a set of skills that have to be learned and continuously practiced.  Where they see a quick vacation, we see a permanent relocation. This is another huge, and potentially very confusing disconnect in how we and our clients are thinking of the solutions to these problems. 
 
@@ -35,7 +35,7 @@ What if I changed my question to you again? What if I asked, “if you needed to
 
 Because at the heart of our clients’ demands to “tell me what to do” is really the demand, “tell me what to do next.” They kinda know where they’re going but they feel overwhelmed enough to hire an expert. And for the same reasons you’d hire any expert, they are relying on our expertise to make their lives easier, not more confusing. Kinda like hiring movers to get your stuff to Albuquerque. 
 
-##### The Problem of How 
+##### The Problem of How
 
 So the reasons most clients seek professional help is a clearer path to their goals and guidance on how to stay on that path. They want to know what to do next and how to keep doing it until it’s easy. Until it’s a habit. And Habitry was developed to solve this problem for as many clients as possible. To maximize the likelihood that clients will complete their journey by creating an community that keeps clients focused on what actually matters. And to make coaches look like rockstars without lifting a finger (well, ok. Maybe your thumbs).
 
@@ -88,7 +88,7 @@ The theories and frameworks which inform this intervention are all deployed to a
 - 20-60min in the morning and at night to read group discussions, respond to emails, and gather the data.
 - The courage to master a little chaos.
 
-#### Evidence Basis for the Techniques used in Habitry
+### Evidence Basis for the Techniques used in Habitry
 According to Self-Determination Theory (SDT; Deci & Ryan, 2000), “self-determined motivation” like doing things because they are fun or something we value is better for long-term behavior change than “controlled-behavior” like guilt or punishment. And according to SDT, an intervention that creates an environment in which people feel autonomous, are improving, and connecting to other people that they care about is more likely to promote “self-determined motivation.” In essence, SDT-based interventions promote the clients’ own motivation to engage in healthy behavior rather than using motivational strategies which can feel more controlling. The benefit of promoting more self-determined motivation over controlled motivations like external rewards, guilt, or fear of punishment is that self-determined motivations are more sustainable and promote long-term change through a process outlined in Organismic Integration Theory (OIT; Deci & Gagné, 2005). By keeping a constant eye on perceptions of autonomy, competence, and relatedness to others, coaches using Habitry can improve the likelihood that their clients will internalize the motivations to eat more appropriately for their goals and maintain the habits being taught over the long haul.
 
 Self-Determination Theory might sound complex with words like “Organismic Integration,” but we believe just about every coach has experienced OI with their successful clients. Have you ever had a client who struggled to even show up, but eventually started working out on their days without you? That’s desire for autonomy. Have you ever had a client who was never excited about exercise show sudden and intense interest in running farther, faster, or more often? That’s a desire for competence. And have you ever had a client who became more consistent when they wanted to impress someone in the gym or at home? That’s relatedness to others. These innate desires, what SDT calls “basic psychological needs” are what drive people to improve when no one is looking, and by keeping them at the core of Habitry we will create an environment where they drive an entire group of people to successful habit change.
@@ -105,14 +105,14 @@ Most fitness professionals are comfortable with long term goals. Our clients com
 According to Vansteenkiste and Deci (2003), “positive performance feedback is crucial for maintaining intrinsic motivation in competitive settings” even more so than winning in a competition (p. 297).
 
 
-####Habitry Principles
+### Habitry Principles
 As this project has continued, Habitry Coaches keep learning, tweaking, and changing the system, but some common principles have emereged. The rest of this tutorial will cover many details, but if any of them confuse you these principles are where to look for guidance.
 
-#####Momentum trumps everything.
+#### Momentum trumps everything.
 
 Coach Stevo noted that most clients do not know what they want, they just don't to be where they are anymore. He calls his job, "getting people from Point A to Point 'Not A'." So like an airplane in a dogfight, the most important quality for success is maintaining momentum. Get them moving. Keep them moving. Your only enemies are inertia and friction.
 
-#####We only track one.
+#### We only track one.
 
 From Coach Stevo:
 The thing about short-term goal setting (any habit that you haven't mastered yet is just a really well-defined short-term goal), is that having lots of them not only doesn't help anything, it's pointless and often makes things harder than they need to be. In 1000+ clients, I have rarely seen a failure of willpower but I have seen 10,000 failures of focus.
@@ -127,11 +127,11 @@ So pick one well-defined, habit-based goal. Track it. And give your client feedb
 
 _We only track one._
 
-#####Teach self-awareness.
+#### Teach self-awareness.
 
 The real goal of a Habitry Coach should be to get clients to learn their own way forward. This is why so much emphasis is placed on the two reflection questions. In fact, since reflection is the only thing that is actually repeated often enough to really become habit, it's habit that we're actually trying to cultivate.
 
-#####Create the social conditions of success.
+#### Create the social conditions of success.
 
 Habit-formation is as much an art as it is a science. We’ve known for a very long time that habits aren’t the only neurological game in town. You can’t explain all the richness of human thinking as either being all unconscious and automatic (like a robot) or all conscious and deliberative (like a pondering philosopher). But we’ve been researching both of these explanations for the way people think separately for generations (Dolan & Dayan, 2013). It’s not been until quite recently that have researchers have been combining the observations of these two ways of thinking into a single working theory (Wood, Labrecque, Lin, & Runger, 2014). A “dual-process theory” that takes into account both nonautomatic and automatic thinking. Both the conscious and unconscious. Both deciding, planning, then executing on a desire to eat popcorn; and mindlessly shoving stale kernels into your face (Neal, Wood, & Quinn, 2006).
 
@@ -141,20 +141,64 @@ The important thing to know about the dual-process theory, as we hope we’ve sh
 
 So the most important thing to know about habit-formation, is that if we want to deliberately form new habits, we have to use a completely different mental process. We have to ponder, plan, and prepare. We have to rely on some motivation and spend our willpower wisely. We have to set some goals and we have to learn a heaping dose of self-awareness. And we have to help them mold their own environment in which those habits will form through fostering their Self-Determined Motivation.
 
-#####Nothing is required.
+#### Nothing is required.
 
 Promoting Self-Determined Motivation is simple: just don't thwart people's Basic Psychological Needs. That means going out of our way to create a safe space that rewards people's feelings of Autonomy, Competence, and Belonging. Chief amoung these is rewarding autonomy, which in social psychology means, "the feeling that one is acting in accordance with one's own values in order to become the best version of one's self." In action, this means treating clients like adults. There is a huge differece between creating the conditions in which someone feels invested and responsible for one's own actions, and an environment where one feels controlled. So take every action you can to remind people that they have choices, even when those choices are not obvious.
 
 
-#####The path will emerge.
+#### The path will emerge.
 
 Every group, every cohort, every team, every collection of human beings is different. And even when eveyrone has the same problems, not everyone will need the same solutions. From the outside, for most coaches Habitry means _chaos._ We let most things be. We don't direct or cajole people to stay on a predefined path, we simply guide the group in the direction that maintains the most momentum over the long haul. That path is not drawn. It has to emerge. In practice, that means listening to the group to find out what it needs, and never really planning to far ahead.
 
-#####The clients are the experts in “how.” The coach is the expert in “what.”
+#### The clients are the experts in “how.” The coach is the expert in “what.”
 
 Perhaps the most important principle to keep in mind during daily interaction, this is a hard one for most coaches because we mistakenly think that the value that clients see in us is that we "know everything." And while it's true that we are the ones thay generally know what people need to be doing, they are the ones who are living it. They are the ones who are looking at things every day and thinking, "how can I make this a part of my life?" Now multiply that experience out for everyone in the cohort, and you've got a hell of a lot of knowledge about _how_ to integrate _what_ you are telling them to do.
 
-#### Habitry by Week
+### Writing Scalable Habits
+
+Put simply, habits are the built-in tendency for our brains to repeat the stuff they’ve done before (Neal, Wood, Labrecque, & Lally, 2012). They’re are a type of brain function that we identify by tell-tale features, the most obvious being frequency. Most people understand habits as actions that you perform a whole lot. Things you do every day like brushing your teeth, making coffee in the morning, or changing into a cardigan and sneakers when you get home from work to play with your puppet collection.
+
+Researchers have also identified a number of other features that define habits.  According to Verplanken (2006), “habit should not be equated with frequency of occurrence, but rather should be considered as a mental construct involving features of automaticity, such as lack of awareness, difficulty to control and mental efficiency” pg. 369. So when we use the word “habit,” we shouldn’t just think about “frequent” but also “automatic.” Habits are the stuff we do almost entirely on autopilot. They take little to no effort. In fact, they often crop up when we are exerting effort on other things. Like when you are driving while thinking really hard about something else and find yourself accidentally taking a left turn to go to the office instead of the grocery store. Coincidentally this is called habit intrusion (Reason, 1979) and is a great example of how even complicated, coordinated actions involving lots of moving parts (driving is hella complicated) can be cued up and performed without exerting effort, or without us even knowing we are doing it.
+
+Another feature of habits is that they are “cued” or “triggered” by context (Neal et. al., 2012; Neal & Wood, 2009). This means that something in our environment flicks the domino and all the actions necessary for a habit just start falling into place. Like being at that corner that you turn left at 5 days a week to go to the office. However, we don't always know what that trigger is; in fact, we rarely do. We are usually just relying on post-hoc rationalizations (Nisbett & Wilson, 1977). But triggering, whether we know the actual trigger or not, is a defining feature of habits. Therefore if you have to remind yourself to do something, it is by definition not a habit (yet).
+
+These features, frequent, automatic, context specific, and largely below our level of conscious awareness, means turning off your alarm clock when it’s going off is a pretty perfect example of a habit. But most “healthy habits” (like going to the gym or choosing nutrient-dense foods), no matter how frequently you do them, can never purely be habitual because they take place in so many different contexts and will always take planning and effort. You’re never going to go to the gym, workout, and come home to realize you’re covered in sweat and can’t remember why. We can, however, use habits to make getting to the gym, or any other healthy habit easier.
+
+#### Rules
+To be most effective, a habit must be:
+
+1. Obvious (The Grandmother Rule)
+2. Adjustable (scaling)
+3. Daily
+4. Personal (Goldilocksing)
+5. Triggered (Piggybacking)
+6. Rewarded
+7. Reinvested
+
+#### The Structure
+I am 90-100% confident I will [action] when [trigger] for the next [1-14 days] in order work towards [skill OR identity OR performance goal].
+
+action = the tiny behavior they want to perform.
+ 
+trigger = the habitual behavior they’re already doing that they can piggyback on.
+ 
+1-14 days = the number of days between 1 and 14 they feel confident they can do.
+ 
+skill = something that the client's best version of themselves wants to do better or more easily
+ 
+identity = the values that the best person of themselves lives up to every day.
+ 
+performance goal = the first thing they wanna do which shows they’re on the right track to becoming their best self.
+
+#### Examples 
+"I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to eat more mindfully."
+ 
+"I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to be a mindful eater."
+ 
+"I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to learn how many calories I'm eating."
+
+
+### Habitry by Week
 
 Monday - Introduce the Habit + Introduce Teams + Promote Scaling
 Tuesday - Clarifying Post
@@ -171,7 +215,7 @@ Friday - Goldilocks Checkin Post
 Saturday - Momentum Post
 Sunday - Habit Review Post
 
-######The First Communication
+#### The First Communication
 
 Your first communication to the group about what is going to happen has a few purposes. The first is welcome your clients to the group. Since we are striving to build a sense of community, welcoming people is an obvious first step. JC Deen used “welcome” as the very first word in his subject line. Secondly, you’ll want to preview what Habitry is going to be like. Remember the less surprises, the lower the barriers to continue will be. I also take this opportunity to briefly (think tweet-length) answer the questions, “why habits” and “why only one at a time.” I also preview the checkin system and briefly say why checking in with each other is so important. Finally, make sure that you emphasize the importance of the “one-at-a-time” framework.
 
@@ -182,7 +226,7 @@ Questions to answer in this communication:
 - What am I expected to do?
 - Why should I do that?
 
-######The Kick-Off
+#### The Kick-Off
 Habitry is a series of structured interactions between clients, facilitated by a coach. These interactions, whether via the Habitry Platform, email, Facebook, forums, or in person, introduces the concept of Habit-Based Training through Icebreakers, stories, a little science, and a lot of getting to know one-another. Getting to know one another is key, because the real power of Habitry is in creating accountability, support and a culture of positive, permanent change. At its core, Habitry breaks down to four daily steps which you should cover in detail in this first communication:
 
 1. Start ridiculously small.
@@ -192,40 +236,40 @@ Habitry is a series of structured interactions between clients, facilitated by a
 
 The second purpose of this email, Facebook, or forum post is to show the clients how you want them to interact with each other. In Coach Stevo's groups, he asks clients to “tell each the story of the strongest thing you’ve ever done.”  This is also opportunity to model the communication you want clients to be having by participating. For example, if you only want clients to focus on a single habit at a time, reflect on only one habit on which you’re working in your forum or Facebook post. Finally, you’ll want to actually introduce the first habit they’ll be doing and tell them why it’s going to help them get to their goals!
 
-#######Start ridiculously small.
+##### Start ridiculously small.
 This week is when clients learn how to take the recommended habit and break it into a simple, daily task that they are 90-100% confident that they can do every day for the next two weeks. Every habit is “negotiable” and no client leaves the meeting with a habit that they do not feel confident that they can do daily. By succeeding at a series of small steps, self-efficacy is promoted and confidence to take on more challenging habits will result.
 Coaches are key to facilitating this self-efficacy both during the kick-off and after. During the initial week, many clients and members will look to the coaches to simply, “tell them what to do,” however in order to facilitate more self-determined motivation, it is important that coaches leave the process of determining the first steps to the clients. To answer, “what should I do,” with, “what do you think you can do?” and to reinforce the community and process whenever possible. 
 To do this, I recommend demonstrating the process of “habit negotiation” with a client who is comfortable being on the spot. In nutrition groups, the first habit I use is “recording what you eat.” I talk about all the different ways I’ve seen it done (MyFitnessPal, pen and paper, taking pictures with the phone, etc.). Then I ask if clients have seen other examples. Finally, I ask them if they are 90-100% confident they can do this habit daily for 2 weeks. If anyone is not, I ask the SuperFriends group for suggestions on how to make the habit smaller or ways to increase the support so that the person who is less than 90% confident can find a habit that fits their confidence level. The point is that no one starts Day 1 of Habit #1 without feeling 90-100% confident they can do the habit daily for 2 weeks.
 Because his first week is dedicated beginning a new training plan, JC Deen takes a different approach. He gives his clients choices between 3 or 4 day per week training plans and ask them to pick which one they felt the most confident they could do. He then spends most of the first day on Facebook facilitating a discussion between the clients about those training plans and how they can get into the habit doing them. By design, his clients do most of the negotiation and work of the coach. As JC puts it, he merely steps in with the “like” button.
 
-#######Do it every day.
+##### Do it every day.
 In order to make this habit stick, the clients must be doing it or contributing to it every day for the next 2 weeks. This is the reason for the daily checkins and client interactions. To facilitate daily practice, I recommend that clients piggyback specific target behavior on routines they already have in place. According to Lally and Gardner (2013), simply saying, “after I eat, I’ll record what I ate in MyFitnessPal,” is much more effective than saying, “I’ll write down what I eat.”
 Teaching clients to piggyback is relatively easy, if you model what you want them to do. This email or Facebook post could be as simple as providing the example I just used or as JC Deen states, “which program are you going to do when you get to the gym?” 
 
-#######Reflect on it every day.
-One of the most important steps in making something a habit is reflecting on the habit, how you’re doing at it, how it is integrating into your life, and how it is impacting your progress toward your goals. [Wood*](#) calls this moment the “habit-goal interface.” If that sounds complicated, you’re in for a surprise because it’s just as simple as asking two questions:
+##### Reflect on it every day.
+One of the most important steps in making something a habit is reflecting on the habit, how you’re doing at it, how it is integrating into your life, and how it is impacting your progress toward your goals. [Wood\*][1] calls this moment the “habit-goal interface.” If that sounds complicated, you’re in for a surprise because it’s just as simple as asking two questions:
 
-1.	What did I do well today?
-2.	What did I learn today?
-3.	
-These inherently positive questions are probably the most powerful part of Habitry. Not only do they serve as a reminder of progress, but they reorient clients back to the process instead of the outcome, they boost confidence, and in numerous randomized-control trials, reflection questions like these have proven to increase people’s perception of happiness. And according to [selingman*](#), the questions themselves become addictive! And for Habitry, this step plays double duty as an important opportunity for clients to interact and support one another as well as serve as a reminder to check in. Many of my clients have been so excited to answer these questions every day that they served as the reminder to do the habit! Multiply that by all the members in the group hopping on Facebook and email to share their reflections, and clients no longer have to worry about “forgetting” to do their habit. JC Deen noted his clients jumped into this opportunity to share so quickly, that all he had to do was stand back and watch the gold pour in: “Most the coaching is done for me!”
+1.  What did I do well today?
+2.  What did I learn today?
+  
+These inherently positive questions are probably the most powerful part of Habitry. Not only do they serve as a reminder of progress, but they reorient clients back to the process instead of the outcome, they boost confidence, and in numerous randomized-control trials, reflection questions like these have proven to increase people’s perception of happiness. And according to Martin Seligman, the questions themselves become addictive! And for Habitry, this step plays double duty as an important opportunity for clients to interact and support one another as well as serve as a reminder to check in. Many of my clients have been so excited to answer these questions every day that they served as the reminder to do the habit! Multiply that by all the members in the group hopping on Facebook and email to share their reflections, and clients no longer have to worry about “forgetting” to do their habit. JC Deen noted his clients jumped into this opportunity to share so quickly, that all he had to do was stand back and watch the gold pour in: “Most the coaching is done for me!”
 
-#######Help someone else every day.
+##### Help someone else every day.
 At the very root of the Habitry system is something that noticed in my research and in my experience as a coach that did not jive with the traditional narrative of behavior change: people do hard things for and with other people. It’s core to Self-Determination Theory, Self-Efficacy Theory, Positive Psychology, and the most successful behavior changing institutions in history. Alcoholics Anonymous, Weight Watchers, the United States Marine Corps, and every religion in the world uses the same model. Ask any Navy SEAL why he fights and you’ll get the same answer: “for the guy next to me.” So I put helping others at the core of Habitry as “Teams” to see what would happen and boom, instant concordance.
 
-In practice for clients, it’s as simple as clicking “like” on a reflection post or adding two cents worth of “good job!” Or it can be a involved as offering alternatives for people who are struggling or texting a fellow SuperFriend who’s had a rough day. For coaches, clients that help each other is a great way to not only provide a safety net for clients having a hard time, but a way to keep clients who might find a habit easy engaged. With Habitry, instead of telling a client who might find a habit particularly easy, “just wait,” now you can say, “hey [client](#), I know that this particular habit is going to be easy for you, so do you think you help out some of the people who are going to be struggling with it? If you’ve got tips, advice, and the extra willpower, I know they’d sure love to borrow some this week.” In this initial communication, just drop the idea in people’s minds. and as JC Deen noticed in the first day, I can almost guarantee it will take root.
+In practice for clients, it’s as simple as clicking “like” on a reflection post or adding two cents worth of “good job!” Or it can be a involved as offering alternatives for people who are struggling or texting a fellow SuperFriend who’s had a rough day. For coaches, clients that help each other is a great way to not only provide a safety net for clients having a hard time, but a way to keep clients who might find a habit easy engaged. With Habitry, instead of telling a client who might find a habit particularly easy, “just wait,” now you can say, “hey [client][2], I know that this particular habit is going to be easy for you, so do you think you help out some of the people who are going to be struggling with it? If you’ve got tips, advice, and the extra willpower, I know they’d sure love to borrow some this week.” In this initial communication, just drop the idea in people’s minds. and as JC Deen noticed in the first day, I can almost guarantee it will take root.
 
 Questions to answer in this email:
-•	What’s the first habit and why will it help me?
-•	Why do I need to make it so small?
-•	How do I make it small enough (90-100%)?
-•	How can I do it every day? (Piggybacking)
-•	What reflection question should I answer? (The 2 Qs)
-•	How can I help others?
+• What’s the first habit and why will it help me?
+• Why do I need to make it so small?
+• How do I make it small enough (90-100%)?
+• How can I do it every day? (Piggybacking)
+• What reflection question should I answer? (The 2 Qs)
+• How can I help others?
 
-######Getting Rolling
+### Getting Rolling
 
-######Week 1
+#### Week 1
 For the first week, the coach’s job is pretty much answering logistical questions (“where do I checkin again?”) and facilitating communication between clients. This means monitoring the daily flow of words on the communication platform to make sure that clients are still excited, motivated, and confident. The key metric here is confidence; if it’s going up, you’re doing your job.
 
 Logistically, this is a good time to get into the rhythm of entering the client checkins into the Google Spreadsheet and building out the metrics you want to use with your clients. At a minimum, we keep track of the following:
@@ -239,24 +283,24 @@ This is as simple as setting up some functions in Google Drive so that every day
 The Habitry Platform takes care of all these metrics automatically.
 
 
-######Communication to Individuals
+#### Communication to Individuals
 On Mondays, we suggest taking the opportunity to give individual feedback to the clients. In these messages, we send them a quick metric about how they are doing (specifically chosen to be positive) and ask if there is anything we can do as a cohort or we can do as a coach to help them improve that metric. If they are 100%, we usually just tell them, “great job!” What matters is that these emails are personal; what’s great about them is they are easy to copy and paste!
 
-Some examples of positive metrics are if the client is doing better than the cohort average I say, “congrats! You’re above average! How can we help you get to [slightly higher %](#)” If the client is struggling with this habit in particular, I’ll say, “you’ve averaged [previous habit average](#) with previous habits we’ve done. What have you noticed that different about this habit? How can we help support you this week?”
+Some examples of positive metrics are if the client is doing better than the cohort average I say, “congrats! You’re above average! How can we help you get to [slightly higher %][3]” If the client is struggling with this habit in particular, I’ll say, “you’ve averaged [previous habit average][4] with previous habits we’ve done. What have you noticed that different about this habit? How can we help support you this week?”
 
 The key is to always be looking to future improvement. The tools you have at your disposal are limited only by your and the group’s creativity. Ask for permission to open the discussion to their SuperFriends, the cohort, or ask if they need a private phone call with you. Renegotiate the habit, bump up the support, make a plan, and don’t let them leave Monday without feeling 90-100% they can do this.
 
-#####The Cavalry: Troubleshooting
+### The Cavalry: Troubleshooting
 Some of the most common problems in Habitry are remedied by positive communication between clients. With all the reflection and check-ins, my best advice from experience is generally to wait and the group will take care of itself.  However, there are times when what a client needs is an interaction with a caring coach. These problems usually happen when clients lose focus or become fixated on the wrong things. In order to best direct “the cavalry,” here are some common examples with recommendations for how coaches can help the clients.
 
-#######Losing focus on the habit
+#### Losing focus on the habit
 The most common problem I’ve seen with clients is losing focus on the habit on which they are currently working. Because most clients are inundated with thousands of “shoulds” and “supposed tos” a day from family, friends, magazines, and commercials, they will often lose focus on the single, ridiculously small habit they are trying to master this week and try to do 400 things at once. So instead of simply drinking a glass of water every day, they are now trying to drink 9 glasses of water,  eat 47 chia seeds every 45 minutes, avoid all gluten and any foods that cast a shadow in the southern hemisphere during November. Those all might be awesome habits, but Habitry is about mastering the next step before taking on new ones. Your clients might come to you looking for additional challenges and ways to get ahead, but until they can master the basics, they’re building on shaky ground.
 When clients seem to have lost focus, try these tactics to get them back on track:
 - Ask them what their concordance percentage is. Every client has been receiving updates on how they are doing. If they are anything less than 100%, engage them in a conversation about how to get there.
 - If they are at 100%, ask them how their SuperFriends are doing. Keeping SuperFriends involved and successful is only slightly less important than being involved and successful. If clients have spare energy to burn, focus them on their SuperFriends success. If everyone in their group is successful, ask about the other SuperFriend groups. There is no limit to the number of SuperFriends the clients can have and the groups are not competing with each other.
 - If they are bored, ask them about their values. According to Burton et al. (2004), identified motivation, doing something because it aligns with your values and is a part of your identity, is more powerful than even intrinsic motivation (because something is fun) for difficult and complex tasks. By asking the client to simply answer, “why are you doing this habit-based challenge,” or “why do you want to help your SuperFriends,” you might get them thinking about their values and get them to refocus. 
 
-#######Focusing too much on the outcome
+#### Focusing too much on the outcome
 Pretty much every client will be joining your group looking for some kind of outcome, most likely weight loss. Focusing only on the outcome, however, can have dire consequences like burnout or a lack of motivation (Filby et. al, 1999).
 - If they think they aren’t losing weight fast enough, ask them how long it takes them to get to home from work. This might seem weird, but being overly focused on an outcome is a major factor in impatience. Clients often have unrealistic expectations about how long fat-loss takes and what it looks like. Coupled with no real data to measure whether or not they are on the right track, this can be a recipe for hopelessness. As professionals, we know that the real answer for “how long does it take to lose X lbs” is “as long as it takes” which is rarely a helpful answer. So instead, focus the client on the process of mastering the habits. By having a clear metric for how they are doing day to day, clients can see successes add up and the successes of their SuperFriends add up. And to make that process more concrete, ask them how long it takes them to get to work in the morning.
 “20 minutes.”
@@ -264,18 +308,17 @@ Pretty much every client will be joining your group looking for some kind of out
 “Then I’d get home later.”
 “So you wouldn’t abandon your car and try to jog on the highway, pay a helicopter pilot $100,000 to pluck you from your car and whisk you to your destination, or get off the highway, turn back towards the office, and never leave the office again?”
 “No, I’d just get home a little later, be upset, then get over it.”
-Focusing too much on how other people are doing
+
+#### Focusing too much on how other people are doing
 Some people are exceptionally competitive or depend on comparing themselves to others in order to determine if they are improving at something. These “ego-driven” clients often get fixated on other people’s success and see it as a judgement of their own failure (Vansteenkiste & Deci, 2003). Feeling incompetent rarely results in motivation or success (Deci & Ryan, 2004), therefore coaches should seek to keep clients “mastery-focused” and reinforce the positive performances on the habits with positive feedback (Czaja & Cummings, 2011).
 - If the client is worried that others are losing weight faster than they are, remind him or her that there is no prize for “most weight lost.” The competition is for most concordant, MVP, and “biggest change” as voted by the entire group. There is no prize for pounds.
 - If the client is worried that other people are doing more than they are, ask if they have talked to those people about their strategies and tactics to stay focused and master the habits. By engaging the other people in the cohort in discussions, the culture becomes more about positive change than “winning.”Too focused on the negative
+
 Food and the body can be hard areas of change for a lot of people because of how they talk to themselves. Negative self-talk, the propensity for people to mentally berate themselves for engaging in certain behaviors, is a maladaptive coping strategy that acts as a self-sabotage for clients who are seeking behavior change (Schwartz & Brownell, 2004). Coaches can help clients by encouraging a focus on the positive.
 - If the client is berating him or herself, ask them what they’ve done well. One of the questions that every client in Habitry is encouraged to ask themselves as part of their active reflection is, “What did I do well today?” This is also a question that SuperFriends are encouraged to ask each other every day. By also asking the same questions, hopefully the client will start to answer the question for themselves. 
 - If the client is focused on possible negative outcomes, ask what they have control over right now. Many clients focused on negative outcomes are losing focus on the process and getting lost in a world of unlikely possibility over which they have no control. By getting the client focused on the habit and what they can do today to get better at that habit, they are setting themselves up for more likely success down the road. Fretting over things that are out of their control will likely do no good and just discourage them from trying.
 
-#####Calling in Reinforcements
-The fact is that if you’re reading this tutorial, habit-based behavior change in groups is probably out of your comfort zone. There might be some things which you feel is out of your scope of practice or just something you’d rather not spend their time on. Luckily, Habitry is precisely in Coach Stevo’s wheelhouse (because he created it). If you seem caught in a loop with your clients or discussions about habits are not how you want to spend your time, then Coach Stevo is available. Shoot him an email at info@habitry.com or coach@coachstevo.com with “HELP!” in the subject line and he’ll get right back to you. If a conversation is too personal or in-depth for your comfort, you can even encourage the client to set up a phone call with Coach Stevo. He will happily discuss nutrition habits and habit-change with anyone in the cohort. Importantly, if you also feel like a client is struggling with depression, anxiety, or disordered eating in the Habitry program, please reach out to Coach Stevo as soon as possible. He has training in identifying these signs as well as a wide referral network of experts, including mental health professionals, who will have the tools to get your client the help he or she needs. 
-
-#####Keeping the Momentum
+### Keeping the Momentum
 So it’s been two weeks and your cohort is banging out habits, checkins, reflections, and is so supportive you wondered why you never tried this group stuff before. Good! Let’s keep it going! In this section we’ll cover:
 - Reviewing the Previous habit.
 - How to choose the next habit.
@@ -284,7 +327,7 @@ It’s important to remember that while the new habit introductions produce a fl
 
 If you start to see some waning morale, try some brief, 24-48 hour challenges (weekends work well) that can piggyback on the habit on which people are currently working. My favorite half-way through is to ask people to re-answer the question, “why are you participating in this program?” This can be a private email to you or an email to the group. This serves to reconnect people back to their values and connect them back to their process.
 
-######Reviewing the Previous Habit
+#### Reviewing the Previous Habit
 One of the most valuable tools for my Habitry programs has been dedicated time every Monday before the announcement of the new habit to reflecting on the previous habit. This allows the people that did really well and the people that struggled to inform each other and take those lessons into the next two weeks. I recommend giving the reflection some structure such as a series of open-ended questions. Here are ones that I use in my presentations:
 - What went well; what did you learn?
 - How will you use what you learned to inform your next habit?
@@ -294,31 +337,31 @@ One of the most valuable tools for my Habitry programs has been dedicated time e
 And don't be afraid to let people really hash it out. Some of the most useful discussions I’ve facilitated started with a client saying, “I hated this!”
 Collect these summaries into an email to send out to everyone (or better yet, have the SuperFriends groups make their own!). I also collect all these summaries in a PDF to give to clients at the completion of the program.
 
-######Choosing the Next Habit
+#### Choosing the Next Habit
 Once your clients get into the “one-at-a-time” idea, they are probably going to be very fixated on every other Monday when the “new habit” is announced. This has pros and cons, but coaches should try to direct this energy into the current habit (both doing and helping others do it) as much as possible.
 
 While most coaches who are using Habitry will have their favorite habits that they have seen improve clients’ awareness to get to the their goals, after doing Habitry a few times, I happened upon a progression that seemed to inform each successive habit rather well. While this is not scientific or remotely required, my progression goes something like this:
 1. A habit of non-judgmental awareness (writing down what you eat, recording where you spend your time, recording your workouts, etc.). The additional mental skill being learned in this phase is non-judgement. I describe this as, “recording what you are doing with the same dispassion as if I asked you to record how many white cars were in the parking lot at noon every day.”
-2. An abstract habit (eating more slowly, leaving repetitions in the tank, improving your posture when you notice yourself slouching, etc.). Non-concrete tasks can drive some clients nuts, so working on something abstract in a group gives people a chance to see how other people handle these nebulous habits and integrate them into their day. The additional skill here is also building on the non-judgement and training up the available willpower [baumeister *](#) in preparation for future habits.
+2. An abstract habit (eating more slowly, leaving repetitions in the tank, improving your posture when you notice yourself slouching, etc.). Non-concrete tasks can drive some clients nuts, so working on something abstract in a group gives people a chance to see how other people handle these nebulous habits and integrate them into their day. The additional skill here is also building on the non-judgement and training up the available willpower in preparation for future habits.
 3. A hard one (no liquid calories, taking a walk at lunch every day, squatting every day, mobilizing every day, etc.). After 4 weeks of getting people into the groove, I have found that week 5 is a perfect time to put the spurs to the SuperFriends groups. They have learned how to talk to each other, seen some progress, built up some mental skills and willpower, and learned the negotiation necessary to tackle a hard habit for 2 weeks. Doing a hard, concrete habit after an abstract one also rejuvenates the motivation levels of the clients that might be wavering and rallies the SuperFriends groups. And for those people that hated abstract stuff, this is also a win.
 4. Column “A” or Column “B” one of my biggest suggestions is to introduce two related habits in this module and let people pick one to do first (eating colorful veggies every day or eating protein every day, pushups every day or pull ups every day, drinking a glass of water in the morning or drinking a glass of water for every drink of alcohol, etc). I have found that SuperFriends groups usually like to stick together on these, but it’s not required. Giving people choices increases their perception of autonomy, the most important psychological need for improving motivation quality and increasing the likelihood that clients will persist.
 5. Switching Columns. Now that some clients have done Column A for 2 weeks and some have done column B, they can tell each other what to expect. This is promoting group support deep into program and showing clients how motivating helping other people meet their goals can be for meeting their own.
 6. Bunching (doing previous habits in addition to the new one). I came up with this idea when I introduced a habit that some clients thought would be too easy. In addition to encouraging them to use their free will on helping the other people in their cohort, I let asked them to pick the hardest habit for them over the whole series (their “goat’) and bunch it with their current habit. But the rules still applied: they had to be 90-100% confident they could do both. This turned out to be a valuable mental skill and some clients who were feeling less motivated got a challenge that kept them in the program until the end.
 
-The Next Habit
 Once your clients get into the “one-at-a-time” idea, they are probably going to be very fixated on every other Monday when the “new habit” is announced. This has pros and cons, but coaches should try to direct this energy into the current habit (both doing and helping others do it) as much as possible.
 Introducing the new habits is as simple as an email or a Facebook post that outlines what the habit is, why it is important and will help them get to their goals, and some examples of how people can “negotiate” this habit to have it fit into their life with 90-100% confidence. I recommend two formats: words and a brief video.
+
 Once clients see the new habit, ask them to brainstorm again as SuperFriends how they are going to integrate the habit and see it through. This is where some of the best ideas in my career have come from. Keep the discussion going until you see that everyone is 90-100% confident they have a plan to get through the next 2 weeks. Require everyone to post their 90-100% plan or just reply to your email with it. Email people individually if you have to or check-in with the whole group, but don't let clients, even seemingly confident ones, get by without announcing their piggybacking plan. After a few times, they will get the hang of it. 
 
 
 For the last emails, ask these questions: 
-•	What did you learn?
-•	Was this program successful?
-•	Would you do this again with new SuperFriends?
-•	Would you recommend it to a friend?Checklists
+• What did you learn?
+• Was this program successful?
+• Would you do this again with new SuperFriends?
+• Would you recommend it to a friend?Checklists
 Here you will find checklists to make sure you have everything you need for each week. Weeks 2-11 are the same items. These lists are not required, but I have attempted to make them exhaustive to include all of my suggestions. Please review them before each week to see if there is anything you’d like to add and to make sure you have everything you need to get started.
 
-##References
+## References
 Arem, H., & Irwin, M. (2011). A review of web-based weight loss interventions in adults.Obesity Reviews, 12(5), e236-e243. doi:10.1111/j.1467-789X.2010.00787.x
   
 Barbeau, A., Sweet, S. N., & Fortier, M. (2009). A Path-Analytic Model of Self-Determination
@@ -579,3 +622,8 @@ Translational Behavioral Medicine, 1(1), 165-174. doi:10.1007/s13142-010-0006-y 
 Online Discussion: The Role of Student Motivation. Journal of Educational Computing Research, 34(1), 67-89.
 
 Young, B. W. & Salmela, J. H. (2002). Perceptions of training and deliberate practice of middle distance runners. International Journal of Sport Psychology, 33(2), 167-181.
+
+[1]:	#
+[2]:	#
+[3]:	#
+[4]:	#
