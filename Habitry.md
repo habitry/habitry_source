@@ -43,6 +43,19 @@ Even the best coaches are limited by time. We often only have our clients’ att
 
 There are so many benefits to providing this support in a group environment and Habitry Coaches learn a dozen more every time we read the feedback from a Habitry group. Habitry is entirely group-based. This has the added benefit for coaches of being able to manage larges groups of clients, all focused, motivated, and sharing the journey to their health and fitness goals, while using checkin data to to direct time and attention to the clients that need it most.
 
+#### The Features that Combine to Make it Habitry
+
+1. One habit at a time.
+2. One habit per cohort.
+3. Personalized scaling of the habit.
+4. Habits lasting 14 days.
+5. Daily reflection on those habits.
+6. Teams.
+7. Team leaders.
+8. Complete focus on process goals.
+9. Using concordance and persistence data.
+10. Weekly individualized feedback.
+
 #### What You’ll Find in this Tutorial
 - An overview of how Habitry works. 
 - Habitry by the numbers.
