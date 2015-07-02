@@ -154,6 +154,10 @@ Every group, every cohort, every team, every collection of human beings is diffe
 
 Perhaps the most important principle to keep in mind during daily interaction, this is a hard one for most coaches because we mistakenly think that the value that clients see in us is that we "know everything." And while it's true that we are the ones thay generally know what people need to be doing, they are the ones who are living it. They are the ones who are looking at things every day and thinking, "how can I make this a part of my life?" Now multiply that experience out for everyone in the cohort, and you've got a hell of a lot of knowledge about _how_ to integrate _what_ you are telling them to do.
 
+## Major Features
+
+The two main features of Habitry are “Scalable Habits” (short-term process goals) and teams.
+
 ### Writing Scalable Habits
 
 Put simply, habits are the built-in tendency for our brains to repeat the stuff they’ve done before (Neal, Wood, Labrecque, & Lally, 2012). They’re are a type of brain function that we identify by tell-tale features, the most obvious being frequency. Most people understand habits as actions that you perform a whole lot. Things you do every day like brushing your teeth, making coffee in the morning, or changing into a cardigan and sneakers when you get home from work to play with your puppet collection.
@@ -197,6 +201,13 @@ performance goal = the first thing they wanna do which shows they’re on the ri
  
 "I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to learn how many calories I'm eating."
 
+### Teams
+
+If your group is larger than 12, you might find it useful to divide the main group into teams. Teams should have 6 engaged members, but you’ll probably want teams of 10 to insure that at least 6 are engaged at all times. The only thing teams do is provide a smaller group of people with whom members can choose to discuss habits and reflection questions. They are a way to prevent people from getting lost in the cracks. We have found it best practice to shuffle teams with every habit in order to make sure that people get to know each other and to insure that if a team starts to disengage, then you can limit the damage to a few days.
+
+#### Team Leaders
+
+We anoint team leaders for every team. These people have one job: post the nightly reflection questions. We have found that the best people for this job are your most engaged members, not necessarily the members with the highest concordance.
 
 ### Habitry by Week
 
@@ -215,8 +226,9 @@ Friday - Goldilocks Checkin Post
 Saturday - Momentum Post
 Sunday - Habit Review Post
 
-#### The First Communication
+#### The First Communications
 
+##### The Pre-Kickoff Message
 Your first communication to the group about what is going to happen has a few purposes. The first is welcome your clients to the group. Since we are striving to build a sense of community, welcoming people is an obvious first step. JC Deen used “welcome” as the very first word in his subject line. Secondly, you’ll want to preview what Habitry is going to be like. Remember the less surprises, the lower the barriers to continue will be. I also take this opportunity to briefly (think tweet-length) answer the questions, “why habits” and “why only one at a time.” I also preview the checkin system and briefly say why checking in with each other is so important. Finally, make sure that you emphasize the importance of the “one-at-a-time” framework.
 
 Questions to answer in this communication:
@@ -226,7 +238,16 @@ Questions to answer in this communication:
 - What am I expected to do?
 - Why should I do that?
 
-#### The Kick-Off
+We also find it extraordinarily useful to say what this program _isn’t_ in order to manage expectations. For example:
+
+**This Program is Not**
+- A contest
+- A challenge
+- A sprint
+- “Whole 30”
+- Temporary
+
+##### The Kick-Off Message
 Habitry is a series of structured interactions between clients, facilitated by a coach. These interactions, whether via the Habitry Platform, email, Facebook, forums, or in person, introduces the concept of Habit-Based Training through Icebreakers, stories, a little science, and a lot of getting to know one-another. Getting to know one another is key, because the real power of Habitry is in creating accountability, support and a culture of positive, permanent change. At its core, Habitry breaks down to four daily steps which you should cover in detail in this first communication:
 
 1. Start ridiculously small.
@@ -236,30 +257,31 @@ Habitry is a series of structured interactions between clients, facilitated by a
 
 The second purpose of this email, Facebook, or forum post is to show the clients how you want them to interact with each other. In Coach Stevo's groups, he asks clients to “tell each the story of the strongest thing you’ve ever done.”  This is also opportunity to model the communication you want clients to be having by participating. For example, if you only want clients to focus on a single habit at a time, reflect on only one habit on which you’re working in your forum or Facebook post. Finally, you’ll want to actually introduce the first habit they’ll be doing and tell them why it’s going to help them get to their goals!
 
-##### Start ridiculously small.
+###### Start ridiculously small.
 This week is when clients learn how to take the recommended habit and break it into a simple, daily task that they are 90-100% confident that they can do every day for the next two weeks. Every habit is “negotiable” and no client leaves the meeting with a habit that they do not feel confident that they can do daily. By succeeding at a series of small steps, self-efficacy is promoted and confidence to take on more challenging habits will result.
+
 Coaches are key to facilitating this self-efficacy both during the kick-off and after. During the initial week, many clients and members will look to the coaches to simply, “tell them what to do,” however in order to facilitate more self-determined motivation, it is important that coaches leave the process of determining the first steps to the clients. To answer, “what should I do,” with, “what do you think you can do?” and to reinforce the community and process whenever possible. 
 To do this, I recommend demonstrating the process of “habit negotiation” with a client who is comfortable being on the spot. In nutrition groups, the first habit I use is “recording what you eat.” I talk about all the different ways I’ve seen it done (MyFitnessPal, pen and paper, taking pictures with the phone, etc.). Then I ask if clients have seen other examples. Finally, I ask them if they are 90-100% confident they can do this habit daily for 2 weeks. If anyone is not, I ask the teams for suggestions on how to make the habit smaller or ways to increase the support so that the person who is less than 90% confident can find a habit that fits their confidence level. The point is that no one starts Day 1 of Habit #1 without feeling 90-100% confident they can do the habit daily for 2 weeks.
 Because his first week is dedicated beginning a new training plan, JC Deen takes a different approach. He gives his clients choices between 3 or 4 day per week training plans and ask them to pick which one they felt the most confident they could do. He then spends most of the first day on Facebook facilitating a discussion between the clients about those training plans and how they can get into the habit doing them. By design, his clients do most of the negotiation and work of the coach. As JC puts it, he merely steps in with the “like” button.
 
-##### Do it every day.
+###### Do it every day.
 In order to make this habit stick, the clients must be doing it or contributing to it every day for the next 2 weeks. This is the reason for the daily checkins and client interactions. To facilitate daily practice, I recommend that clients piggyback specific target behavior on routines they already have in place. According to Lally and Gardner (2013), simply saying, “after I eat, I’ll record what I ate in MyFitnessPal,” is much more effective than saying, “I’ll write down what I eat.”
 Teaching clients to piggyback is relatively easy, if you model what you want them to do. This email or Facebook post could be as simple as providing the example I just used or as JC Deen states, “which program are you going to do when you get to the gym?” 
 
-##### Reflect on it every day.
-One of the most important steps in making something a habit is reflecting on the habit, how you’re doing at it, how it is integrating into your life, and how it is impacting your progress toward your goals. [Wood\*][1] calls this moment the “habit-goal interface.” If that sounds complicated, you’re in for a surprise because it’s just as simple as asking two questions:
+###### Reflect on it every day.
+One of the most important steps in making something a habit is reflecting on the habit, how you’re doing at it, how it is integrating into your life, and how it is impacting your progress toward your goals. Wendy Wood calls this moment the “habit-goal interface.” If that sounds complicated, you’re in for a surprise because it’s just as simple as asking two questions:
 
 1.  What did I do well today?
 2.  What did I learn today?
 	  
 These inherently positive questions are probably the most powerful part of Habitry. Not only do they serve as a reminder of progress, but they reorient clients back to the process instead of the outcome, they boost confidence, and in numerous randomized-control trials, reflection questions like these have proven to increase people’s perception of happiness. And according to Martin Seligman, the questions themselves become addictive! And for Habitry, this step plays double duty as an important opportunity for clients to interact and support one another as well as serve as a reminder to check in. Many of my clients have been so excited to answer these questions every day that they served as the reminder to do the habit! Multiply that by all the members in the group hopping on Facebook and email to share their reflections, and clients no longer have to worry about “forgetting” to do their habit. JC Deen noted his clients jumped into this opportunity to share so quickly, that all he had to do was stand back and watch the gold pour in: “Most the coaching is done for me!”
 
-##### Help someone else every day.
+###### Help someone else every day.
 At the very root of the Habitry system is something that noticed in my research and in my experience as a coach that did not jive with the traditional narrative of behavior change: people do hard things for and with other people. It’s core to Self-Determination Theory, Self-Efficacy Theory, Positive Psychology, and the most successful behavior changing institutions in history. Alcoholics Anonymous, Weight Watchers, the United States Marine Corps, and every religion in the world uses the same model. Ask any Navy SEAL why he fights and you’ll get the same answer: “for the guy next to me.” So I put helping others at the core of Habitry as “Teams” to see what would happen and boom, instant concordance.
 
-In practice for clients, it’s as simple as clicking “like” on a reflection post or adding two cents worth of “good job!” Or it can be a involved as offering alternatives for people who are struggling or texting a teammate who’s had a rough day. For coaches, clients that help each other is a great way to not only provide a safety net for clients having a hard time, but a way to keep clients who might find a habit easy engaged. With Habitry, instead of telling a client who might find a habit particularly easy, “just wait,” now you can say, “hey [client][2], I know that this particular habit is going to be easy for you, so do you think you help out some of the people who are going to be struggling with it? If you’ve got tips, advice, and the extra willpower, I know they’d sure love to borrow some this week.” In this initial communication, just drop the idea in people’s minds. and as JC Deen noticed in the first day, I can almost guarantee it will take root.
+In practice for clients, it’s as simple as clicking “like” on a reflection post or adding two cents worth of “good job!” Or it can be a involved as offering alternatives for people who are struggling or texting a teammate who’s had a rough day. For coaches, clients that help each other is a great way to not only provide a safety net for clients having a hard time, but a way to keep clients who might find a habit easy engaged. With Habitry, instead of telling a client who might find a habit particularly easy, “just wait,” now you can say, “hey [client], I know that this particular habit is going to be easy for you, so do you think you help out some of the people who are going to be struggling with it? If you’ve got tips, advice, and the extra willpower, I know they’d sure love to borrow some this week.” In this initial communication, just drop the idea in people’s minds. and as JC Deen noticed in the first day, I can almost guarantee it will take root.
 
-Questions to answer in this email:
+Questions to answer in this communication:
 • What’s the first habit and why will it help me?
 • Why do I need to make it so small?
 • How do I make it small enough (90-100%)?
@@ -624,6 +646,3 @@ Translational Behavioral Medicine, 1(1), 165-174. doi:10.1007/s13142-010-0006-y 
 Online Discussion: The Role of Student Motivation. Journal of Educational Computing Research, 34(1), 67-89.
 
 Young, B. W. & Salmela, J. H. (2002). Perceptions of training and deliberate practice of middle distance runners. International Journal of Sport Psychology, 33(2), 167-181.
-
-[1]:	#
-[2]:	#
