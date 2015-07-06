@@ -1,6 +1,6 @@
 # Habitry
-## Email templates for lauching a Habitry Coaching Group.
-### Background
+## Templates for lauching and running a Habitry Coaching Group.
+### Emails
 
 Habitry Coaches have helped 500+ online clients using the Habitry System.
 
@@ -24,3 +24,12 @@ A “Setting Expectations” email, sent on the Friday before your group starts 
 A “Community Introduction” email, sent on Sunday before your group starts (assuming it starts on a Monday), to show your clients how they can  can introduce themselves to the rest of their group.
 
 **Template:** https://github.com/habitry/habitry-system/blob/master/Templates/04-community-introduction.md
+
+### Facebook Group Posts
+
+Below we've provided templates for Facebook Group posts.
+
+### Facebook Post #1: Announcing Teams ###
+Assuming you have enough people in your group, this post announces teams to clients and explains why they are useful to them.
+
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/04-announcing-teams.md
