@@ -1,4 +1,4 @@
-##SETTING EXPECTACTIONS EMAIL (to be sent immediately after sign-up)
+##SETTING EXPECTACTIONS EMAIL (usually sent Friday, assuming a Monday start).
 
 SUBJECT: (Insert Name of Your Habitry Coaching Group. Example: Rockstar Fatloss Coaching Group) Begins Monday!
 
