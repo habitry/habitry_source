@@ -1,3 +1,7 @@
+# Habitry
+## Suggested emails and templates for lauching a Habitry Coaching Group.
+### Background
+
 Habitry Coaches have helped 500+ online clients using the Habitry System.
 
 Successful Habitry Group launches tend to have three specific emails sent to clients in the week leading up to the launch. If writing that many emails seems a little daunting, don’t worry. We’ll show you exactly what to write in each email and provide examples so you can set your clients up for maximum success!
