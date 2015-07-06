@@ -1,5 +1,5 @@
 # Habitry
-## Suggested emails and templates for lauching a Habitry Coaching Group.
+## Email templates for lauching a Habitry Coaching Group.
 ### Background
 
 Habitry Coaches have helped 500+ online clients using the Habitry System.
