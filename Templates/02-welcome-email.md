@@ -1,4 +1,4 @@
-##WELCOME EMAIL (to be sent immediately after sign-up)
+##Welcome Email
 
 SUBJECT: Welcome to (Insert Name of Habitry Coaching Group. E.g., Rockstar Fatloss Coaching Group)!
 
