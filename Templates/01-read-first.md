@@ -4,7 +4,7 @@
 
 Habitry Coaches have helped 500+ online clients using the Habitry System.
 
-Successful Habitry Group launches tend to have three specific emails sent to clients in the week leading up to the launch. If writing that many emails seems a little daunting, don’t worry. We’ll show you exactly what to write in each email and provide examples so you can set your clients up for maximum success!
+Successful Habitry Group launches tend to have some specific emails sent to clients in the week leading up to the launch. If writing that many emails seems a little daunting, don’t worry. We’ll show you exactly what to write in each email and provide examples so you can set your clients up for maximum success!
 
 **NOTE:** Like everything else in the Habitry System, the templates below are just suggestions. You may want to do things differently, and that’s totally cool with us! In fact, we’d love for you to share it with us in the Motivate Collective: http://habitry.com/collective.
 
@@ -25,11 +25,31 @@ A “Community Introduction” email, sent on Sunday before your group starts (a
 
 **Template:** https://github.com/habitry/habitry-system/blob/master/Templates/04-community-introduction.md
 
+#### Email #4: The Habit ###
+This explains the habit the group will be working on, why it's important, how to scale it to each individual client's confidence level, and what to use as a piggbyback habit.
+
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/05-announcing-teams.md
+
 ### Facebook Group Posts
 
 Below we've provided templates for Facebook Group posts.
 
-#### Facebook Post #1: Announcing Teams ###
+#### Facebook Post #1: Icebreakers ###
+These are useful for helping your community members get comfortable and talking right on Day 1.
+
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/06-icebreakers.md
+
+#### Facebook Post #2: Announcing Teams ###
 Assuming you have enough people in your group, this post announces teams to clients and explains why they are useful to them.
 
-**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/04-announcing-teams.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/07-announcing-teams.md
+
+#### Facebook Post #3: Individual Weekly Feedback ###
+A weekly message to each client reviewing how did they did in the past week. Used to keep them moving forward and provides an opportunity to ask for support.
+
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/07-weekly-feedback.md
+
+#### Facebook Post #4: Weekly Group Habit Review ###
+A weekly group discussion of what went well with the habit.
+
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/07-weekly-review.md
