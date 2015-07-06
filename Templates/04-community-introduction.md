@@ -3,6 +3,7 @@
 SUBJECT: Welcome to (Insert Name of Habitry Coaching Group. E.g., Rockstar Fatloss Coaching Group)!
 
 Your to-do list for today:
+
 1. Go to the Facebook group and request to join (don't worry, we'll approve you)
 2. Introduce yourself in a post and join the discussion.
 
