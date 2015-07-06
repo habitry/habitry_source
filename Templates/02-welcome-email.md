@@ -12,5 +12,5 @@ And I’m really excited because this (Insert Name of Coaching Group. Example: R
 
 On Sunday morning, you’ll receive an email with details on how to get started. It will also be an opportunity for everyone (including you) to introduce themselves and get the group started!
 
-- Your Name
+–Your Name
 
