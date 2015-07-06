@@ -12,4 +12,4 @@ The (Insert Name of Habitry Coaching Group. Example: Rockstar Fatloss Coaching G
 
 As promised, the (Insert Name of Habitry Coaching Group. Example: Rockstar Fatloss Coaching Group) will be unlike any fat loss program out there. As (Insert Group Identity Label. Example: Fatloss Rockstars), you can expect unlimited and unconditional support from me. So never hesitate to reach out!
 
-– Your Name
+– Coach Name
