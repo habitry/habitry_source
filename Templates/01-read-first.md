@@ -47,9 +47,9 @@ Assuming you have enough people in your group, this post announces teams to clie
 #### Facebook Post #3: Individual Weekly Feedback ###
 A weekly message to each client reviewing how did they did in the past week. Used to keep them moving forward and provides an opportunity to ask for support.
 
-**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/07-weekly-feedback.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/08-weekly-feedback.md
 
 #### Facebook Post #4: Weekly Group Habit Review ###
 A weekly group discussion of what went well with the habit.
 
-**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/07-weekly-review.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/09-weekly-review.md
