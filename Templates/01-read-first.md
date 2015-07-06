@@ -10,14 +10,17 @@ Note: Like everything else in the Habitry System, these emails are simply sugges
 
 With that out of the way, the suggested three emails are:
 
+### 1. Welcome Email ###
 A “Welcome” email, sent when they sign-up, to get them excited about officially being in the group. In this email you’ll also provide them an opportunity to shape the group right off the bat by showing them how to invite a friend. 
 
-Template: https://github.com/habitry/habitry-system/blob/master/Templates/02-welcome-email.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/02-welcome-email.md
 
-A “Setting Expectations” email, sent on Friday, to let your clients know what to expect and what not to expect in their Habitry group. 
+### 2. "Setting Expectations" ###
+A “Setting Expectations” email, sent on the Friday before your group starts (assuming it starts on a Monday), to let your clients know what to expect and what not to expect in their Habitry group. 
 
-Template: https://github.com/habitry/habitry-system/blob/master/Templates/03-setting-expectations-email.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/03-setting-expectations-email.md
 
-A “Community Introduction” email, sent on Sunday, to show your clients how they can  can introduce themselves to the rest of their group.
+### 3. "Community Introduction" Email ###
+A “Community Introduction” email, sent on Sunday before your group starts (assuming it starts on a Monday), to show your clients how they can  can introduce themselves to the rest of their group.
 
-Template: https://github.com/habitry/habitry-system/blob/master/Templates/04-community-introduction.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/04-community-introduction.md
