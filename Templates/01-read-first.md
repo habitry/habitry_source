@@ -10,7 +10,7 @@ Successful Habitry Group launches tend to have three specific emails sent to cli
 
 With that out of the way, the suggested three emails are:
 
-### Email 1: Welcome ###
+### Email #1: Welcome ###
 A “Welcome” email, sent when they sign-up, to get them excited about officially being in the group. In this email you’ll also provide them an opportunity to shape the group right off the bat by showing them how to invite a friend. 
 
 **Template:** https://github.com/habitry/habitry-system/blob/master/Templates/02-welcome-email.md
