@@ -209,6 +209,8 @@ action = the tiny behavior they want to perform.
 
 ### Teams
 
+One of the early discoveries Coach Stevo made running Habitry groups was that as groups got larger, some conversations were just better and more useful with a smaller number of participants. Teams in Habitry Groups are not competitive, but collaborative. 
+
 If your group is larger than 12, you might find it useful to divide the main group into teams. Teams should have 6 engaged members, but you’ll probably want teams of 10 to insure that at least 6 are engaged at all times. The only thing teams do is provide a smaller group of people with whom members can choose to discuss habits and reflection questions. They are a way to prevent people from getting lost in the cracks. We have found it best practice to shuffle teams with every habit in order to make sure that people get to know each other and to insure that if a team starts to disengage, then you can limit the damage to a few days.
 
 #### Team Leaders
@@ -216,7 +218,6 @@ If your group is larger than 12, you might find it useful to divide the main gro
 We anoint team leaders for every team. These people have one job: post the nightly reflection questions. We have found that the best people for this job are your most engaged members, not necessarily the members with the highest concordance.
 
 ### Habitry by Week
-
 
 ![Habitry by Week](http://answers.habitry.com/wp-content/uploads/2015/07/habitry-by-week.png)
 
