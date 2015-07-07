@@ -1,6 +1,6 @@
 ##Email #2: Setting Expectations
 
-**Note:** A “Setting Expectations” email, sent on the Friday before your group starts (assuming it starts on a Monday), is used to let your clients know what to expect and what not to expect in their Habitry group.
+A “Setting Expectations” email, sent on the Friday before your group starts (assuming it starts on a Monday), is used to let your clients know what to expect and what not to expect in their Habitry group.
 
 SUBJECT: [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] Begins Monday!
 
