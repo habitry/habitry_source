@@ -204,9 +204,7 @@ action = the tiny behavior they want to perform.
 
 #### Examples 
 - "I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to eat more mindfully."
- 
 - "I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to be a mindful eater."
- 
 - "I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to learn how many calories I'm eating."
 
 ### Teams
