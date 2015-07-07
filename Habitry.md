@@ -228,6 +228,7 @@ We anoint team leaders for every team. These people have one job: post the night
 - Friday: Goldilocks Checkin Post
 - Saturday: Momentum Post
 - Sunday: Momentum Post
+
 - Monday:  Individual Client Feedback
 - Tuesday:  Group Checkin
 - Wednesday: Post an article
