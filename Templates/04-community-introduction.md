@@ -15,8 +15,11 @@ What you can expect from us: daily accountability from an expert coach and weekl
 
 What we expect from you:
 A. Endeavor to practice the current habit daily (more on this tomorrow).
+
 B. Check-in daily via the threads that will be started to let us know if you did the habit (this is how we can keep track of your progress).
+
 C. Respond to the daily reflection questions we leave on the check-in threads.
+
 D. Reach out daily to other community members.
 
 Checking in and responding to the reflection questions are important for your own journey - they help to reinforce the consistency needed to make each habit an actual habit! 
