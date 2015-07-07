@@ -197,10 +197,10 @@ I am 90-100% confident I will [action] when [trigger] for the next [1-14 days] i
 
 action = the tiny behavior they want to perform.
 - trigger = the habitual behavior they’re already doing that they can piggyback on.
--1-14 days = the number of days between 1 and 14 they feel confident they can do.
--skill = something that the client's best version of themselves wants to do better or more easily
--identity = the values that the best person of themselves lives up to every day.
--performance goal = the first thing they wanna do which shows they’re on the right track to becoming their best self.
+- 1-14 days = the number of days between 1 and 14 they feel confident they can do.
+- skill = something that the client's best version of themselves wants to do better or more easily
+- identity = the values that the best person of themselves lives up to every day.
+- performance goal = the first thing they wanna do which shows they’re on the right track to becoming their best self.
 
 #### Examples 
 "I am 90-100% confident I will record what I eat after every meal for the next 14 days in order to eat more mindfully."
