@@ -14,6 +14,7 @@ Today is going to be mainly about logistics. We are going to start on the first 
 What you can expect from us: daily accountability from an expert coach and weekly emails with feedback about how things are going.
 
 What we expect from you:
+
 A. Endeavor to practice the current habit daily (more on this tomorrow).
 
 B. Check-in daily via the threads that will be started to let us know if you did the habit (this is how we can keep track of your progress).
