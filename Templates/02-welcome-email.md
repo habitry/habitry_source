@@ -1,6 +1,6 @@
 ##Email #1: Welcome
 
-**Note:**A “Welcome” email, sent when they sign-up, is used to get clients excited about officially being in the group.
+**Note:** A “Welcome” email, sent when they sign-up, is used to get clients excited about officially being in the group.
 
 SUBJECT: Welcome to [Insert Name of Habitry Coaching Group. E.g., "Rockstar Fat Loss Coaching Group"]!
 
