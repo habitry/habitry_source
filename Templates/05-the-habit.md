@@ -32,7 +32,7 @@ One of the most important things for you to succeed in [Insert Name of Habitry C
 
 For this habit, and every other habit that you’ll do, we’ll do that by asking you to fill in the blanks in this sentence:
 
->I am 90-100% confident that I will **[insert habit]** for **[insert how much/how often]** after I **[habit to piggyback on]** for the >next 7 days.
+>I am 90-100% confident that I will **[insert habit]** for **[insert how much/how often]** after I **[habit to piggyback on]** for the next 7 days.
 
 The first step is to scale the habit to something you are 90-100% confident you can do. 
 
