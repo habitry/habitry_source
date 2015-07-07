@@ -1,6 +1,6 @@
 ##Email #4: The Habit
 
-**Note:** To make it easier to understand, this email walks through an example "food tracking" habit. But you can adapt this template for any habit you want your clients to practice.
+To make it easier to understand, this email walks through an example "food tracking" habit. But you can adapt this template for any habit you want your clients to practice.
 
 SUBJECT: [ClientName], here’s our first habit!
 
