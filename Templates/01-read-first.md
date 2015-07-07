@@ -12,7 +12,7 @@ Successful Habitry Group launches tend to have some specific communications sent
 
 **NOTE:** Like everything else in the Habitry System, the templates below are just suggestions. You may want to do things differently, and that’s totally cool with us! In fact, we’d love for you to share it with us in the Motivate Collective: http://habitry.com/collective.
 
-## Templates for pre-launch period.
+## Templates for pre-launch.
 
 ### Emails
 
@@ -38,7 +38,7 @@ This explains the habit the group will be working on, why it's important, how to
 
 **Example Template:** https://github.com/habitry/habitry-system/blob/master/Templates/05-the-habit.md
 
-## Templates for post-launch period.
+## Templates for after launch.
 
 ### Community Platform Posts
 
