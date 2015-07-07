@@ -42,7 +42,7 @@ This explains the habit the group will be working on, why it's important, how to
 
 ### Communication Platform Posts
 
-Below we've provided templates for posts to the communications platform you're using (like the Habitry platform or facebook groups).
+Below we've provided templates for posts to the communications platform you're using (like the Habitry platform or Facebook Groups).
 
 #### Post #1: Icebreakers ###
 These are useful for helping your community members get comfortable and talking right on Day 1.
