@@ -1,16 +1,18 @@
 ##Email #4: The Habit
 
-SUBJECT: Here's your first habit!
+Note: To make it easier to understand, the template below explains a food tracking habit. But you can adapt this template for any habit you want your clients to practice.
 
-Hey [ClientFirstName],
+SUBJECT: [ClientName], here’s our first habit!
+
+Hey [ClientName],
 
 Your to-do list for today:
 
-1. Read this email to learn about the first habit and how to personalize and make it work for *you*.
+1. Read this email to learn about the Food Tracking habit and how to personalize and make it work for *you*.
 
-2. Go to the Habitry app to discuss and ask questions about the habit.
+2. Go to [Insert Community Platform. E.g., Habitry platform, Facebook Group, etc] to discuss and ask questions about the habit.
 
-3. Post your personal version of the habit in the Habitry app!
+3. Post your personal version of the Food Tracking habit in [Insert Community Platform. E.g., Habitry platform, Facebook Group, etc]!
 
 The Habit: I Will Track What I Eat
 
@@ -18,16 +20,15 @@ Why Do I Want To Do This Habit?
 
 Getting a really good picture of what you’re eating now, day to day, is going to be a great starting place for what we do. The most important step in change is to create awareness. 
 
-So we start with tracking protein! As crazy as it sounds, at this point, we don’t even care that you change how much protein you eat. 
+So we start with tracking protein! As crazy as it sounds, at this point, we don’t even care that you change how much protein, or carbs, or fats you eat. 
 
 How Can I Make This Habit Easy?
 
-One of the most important things for you to succeed in the CMFIT Legends Nutrition Group is custom tailoring each habit to you.
+One of the most important things for you to succeed in [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] is custom tailoring each habit to you.
 
 For this habit, and every other habit that you’ll do, we’ll do that by asking you to fill in the blanks in this sentence:
 
-
-I am 90-100% confident that I will [insert habit] for [insert how much/how often] after I [habit to piggyback on] for the next 7 days
+>I am 90-100% confident that I will **[insert habit]** for **[insert how much/how often]** after I **[habit to piggyback on]** for the >next 7 days.
 
 The first step is to scale the habit to something you are 90-100% confident you can do. 
 
@@ -51,5 +52,3 @@ Here’s an example:
 I am 90-100% confident that I will track what I eat by writing down what I eat at dinner in my journal after I am done eating dinner, for 4 out of 7 days this week.
 
 P.S. Don’t worry about making it perfect. We can always help you scale the habit to fit your life. In fact, that’s the whole point of coaching!
-
-
