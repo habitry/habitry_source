@@ -30,4 +30,5 @@ Team Members for First Habit:
 [List Client Names]
 
 Talk soon,
+
 [Coach Name]
