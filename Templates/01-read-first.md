@@ -36,7 +36,7 @@ A “Community Introduction” email, sent on Sunday before your group starts (a
 #### Email #4: The Habit ###
 This explains the habit the group will be working on, why it's important, how to scale it to each individual client's confidence level, and what to use as a piggbyback habit.
 
-**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/05-announcing-teams.md
+**Template:** https://github.com/habitry/habitry-system/blob/master/Templates/05-the-habit.md
 
 ## Templates for post-launch period.
 
