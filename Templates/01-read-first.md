@@ -16,7 +16,7 @@ Successful Habitry Group launches tend to have some specific communications sent
 
 ### Emails
 
-The emails below will help your clients understand what to expect.
+The emails below will help your clients understand what to expect. These are typically sent in the week prior to the launch date of the Habitry Coaching Group.
 
 #### Email #1: Welcome ###
 A “Welcome” email, sent when they sign-up, to get them excited about officially being in the group. In this email you’ll also provide them an opportunity to shape the group right off the bat by showing them how to invite a friend. 
