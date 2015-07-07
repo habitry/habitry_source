@@ -1,10 +1,10 @@
 ##Email #3: Community Introduction
 
-SUBJECT: Welcome to (Insert Name of Habitry Coaching Group. E.g., Rockstar Fat Loss Coaching Group)!
+SUBJECT: Welcome to [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”]!
 
 Your to-do list for today:
 
-1. Go to (Insert Communication Platform. E.g, Facebook Group, Habitry Platform, etc) and request to join (don't worry, we'll approve you)
+1. Go to [Insert Community Platform. E.g, Facebook Group, Habitry Platform, etc] and request to join (don't worry, we'll approve you)
 2. Introduce yourself in a post and join the discussion.
 
 Today is going to be mainly about logistics. We are going to start on the first habit tomorrow, but today is about laying the groundwork on two of the most important things we’ll be focusing on as we move forward: Community and Consistency.
