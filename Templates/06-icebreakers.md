@@ -1,3 +1,5 @@
+##Post #1: Icebreakers
+
 For your clients, the first day of a Habitry group is a bit like the first day of school. They will be excited, probably a touch nervous, and wondering: “Will the other kids like me?”
 
 There will be a bit of tension in the air.
@@ -16,7 +18,7 @@ The best icebreakers help your clients feel that they will not be embarrassed fo
 
 The best icebreakers help clients learn that others in the group share the same values, personality, interests, and life experiences. The social psychology research is clear: we like being around other people who are similar to us, because it makes us feel good about ourselves. If you nail steps 1 and 2, then your clients will feel like they belong in community of people just like them from Day One. That’s important, because as Coach Stevo says, “People rarely change people; communities change people”.
 
-**18 Habitry-Tested Icebreakers88
+**18 Habitry-Tested Icebreakers**
 
 Below are some icebreakers that we’ve tested successfully on clients. We’ve listed them for inspiration. However, you can and should come up with icebreakers specific to the values, personality, interests, and life experiences of your community.
 
