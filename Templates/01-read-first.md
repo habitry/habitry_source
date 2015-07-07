@@ -40,9 +40,9 @@ This explains the habit the group will be working on, why it's important, how to
 
 ## Templates for post-launch period.
 
-### Communication Platform Posts
+### Community Platform Posts
 
-Below we've provided templates for posts to the communications platform you're using (like the Habitry platform or Facebook Groups).
+Below we've provided templates for posts to the community platform you're using (like the Habitry platform or Facebook Groups).
 
 #### Post #1: Icebreakers ###
 These are useful for helping your community members get comfortable and talking right on Day 1.
