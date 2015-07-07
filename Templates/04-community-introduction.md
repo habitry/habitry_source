@@ -1,5 +1,7 @@
 ##Email #3: Community Introduction
 
+**Note:** A “Community Introduction” email, sent on Sunday before your group starts (assuming it starts on a Monday), is used to show your clients how they can can introduce themselves to the rest of their group and how you expect them to "use" the Habitry group.
+
 SUBJECT: Welcome to [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”]!
 
 Your to-do list for today:
