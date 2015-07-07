@@ -1,6 +1,9 @@
 ##Post #2: Announcing Teams
 
-**Note:** Assuming you have enough people in your group, this post announces teams to clients and explains why they are useful to them.
+**Note:** Assuming you have enough people in your group, this post announces teams to clients and explains why they are useful to them. Some general tips:
+
+- Teams of 8-12 work best.
+- We suggest providing team names. Pick something that you think you're target audience will like. We've found teams named after animals and superheroes work well. We'd love to hear what names you come up with!
 
 Hey [Insert Group Identity Label. E.g., "Fat Loss Rockstars"]!
  
