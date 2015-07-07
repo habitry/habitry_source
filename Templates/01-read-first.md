@@ -1,27 +1,22 @@
 # Habitry
-## Templates for lauching and running a Habitry Coaching Group.
 
 ##Introduction
 
 ![Habitry by Week](http://answers.habitry.com/wp-content/uploads/2015/07/habitry-by-week.png)
 
-Habitry is about bringing together a group of clients ready to change their lifestyle, communicating with that group in the right way, and explicitly and transparently creating a culture of change. The evidence-based foundations for creating this culture are explained elsewhere (see: [Creating a Culture of Change](https://github.com/habitry/habitry-system/blob/master/Habitry.md#creating-a-culture-of-change))
-
-
-
-
-
-
-
-### Emails
+Habitry is about bringing together a group of clients ready to change their lifestyle, communicating with that group in the right way, and explicitly and transparently creating a culture of change. The evidence-based foundations and steps for creating this culture are explained elsewhere (see: [Creating a Culture of Change](https://github.com/habitry/habitry-system/blob/master/Habitry.md#creating-a-culture-of-change)). 
 
 Habitry Coaches have helped 500+ online clients using the Habitry System.
 
-Successful Habitry Group launches tend to have some specific emails sent to clients in the week leading up to the launch. If writing that many emails seems a little daunting, don’t worry. We’ll show you exactly what to write in each email and provide examples so you can set your clients up for maximum success!
+Successful Habitry Group launches tend to have some specific communications sent to clients in the week leading up to the launch. If that seems a little daunting, don’t worry. We’ll show you exactly what to communicate to clients and provide examples so you can set your clients up for maximum success!
 
 **NOTE:** Like everything else in the Habitry System, the templates below are just suggestions. You may want to do things differently, and that’s totally cool with us! In fact, we’d love for you to share it with us in the Motivate Collective: http://habitry.com/collective.
 
-With that out of the way, the suggested three emails are:
+With that out of the way, the suggested communications are below.
+
+## Templates for lauching and running a Habitry Coaching Group.
+
+### Emails
 
 #### Email #1: Welcome ###
 A “Welcome” email, sent when they sign-up, to get them excited about officially being in the group. In this email you’ll also provide them an opportunity to shape the group right off the bat by showing them how to invite a friend. 
