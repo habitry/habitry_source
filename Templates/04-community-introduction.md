@@ -1,6 +1,6 @@
 ##Email #3: Community Introduction
 
-SUBJECT: Welcome to (Insert Name of Habitry Coaching Group. E.g., Rockstar Fatloss Coaching Group)!
+SUBJECT: Welcome to (Insert Name of Habitry Coaching Group. E.g., Rockstar Fat Loss Coaching Group)!
 
 Your to-do list for today:
 
