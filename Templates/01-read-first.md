@@ -1,5 +1,18 @@
 # Habitry
 ## Templates for lauching and running a Habitry Coaching Group.
+
+##Introduction
+
+![Habitry by Week](http://answers.habitry.com/wp-content/uploads/2015/07/habitry-by-week.png)
+
+Habitry is about bringing together a group of clients ready to change their lifestyle, communicating with that group in the right way, and explicitly and transparently creating a culture of change. The evidence-based foundations for creating this culture are explained elsewhere (see: [Creating a Culture of Change](https://github.com/habitry/habitry-system/blob/master/Habitry.md#creating-a-culture-of-change))
+
+
+
+
+
+
+
 ### Emails
 
 Habitry Coaches have helped 500+ online clients using the Habitry System.
