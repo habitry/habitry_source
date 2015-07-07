@@ -8,7 +8,7 @@ Hey [ClientName],
 
 Your to-do list for today:
 
-1. Read this email to learn about the Food Tracking habit and how to personalize and make it work for *you*.
+1. Read this email to learn about the Food Tracking habit and how to make it work for you.
 
 2. Go to [Insert Community Platform. E.g., Habitry platform, Facebook Group, etc] to discuss and ask questions about the habit.
 
