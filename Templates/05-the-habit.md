@@ -36,9 +36,9 @@ For this habit, and every other habit that you’ll do, we’ll do that by askin
 
 The first step is to scale the habit to something you are 90-100% confident you can do. 
 
-You might want to track specific meals (just breakfasts, lunches, or dinners), or specific days (mondays, wednesdays, fridays). 
+You might want to track specific meals (just breakfasts, lunches, or dinners), or specific days (e.g., Mondays, Wednesdays, Fridays). 
 
-Point it, whatever you pick, it should be as easy as brushing your teeth. 
+Point is, whatever you pick, it should be as easy as brushing your teeth. 
 
 **When Am I Going To Do The Habit?**
 
