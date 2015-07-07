@@ -8,13 +8,11 @@ Habitry is about bringing together a group of clients ready to change their life
 
 Habitry Coaches have helped 500+ online clients using the Habitry System.
 
-Successful Habitry Group launches tend to have some specific communications sent to clients in the week leading up to the launch. If that seems a little daunting, don’t worry. We’ll show you exactly what to communicate to clients and provide examples so you can set your clients up for maximum success!
+Successful Habitry Group launches tend to have some specific communications sent to clients in the week leading up to the launch and then a regular series of communications during each two-week habit practice. If that seems a little daunting, don’t worry. We’ll show you exactly what to communicate to clients and provide examples so you can set your clients up for maximum success!
 
 **NOTE:** Like everything else in the Habitry System, the templates below are just suggestions. You may want to do things differently, and that’s totally cool with us! In fact, we’d love for you to share it with us in the Motivate Collective: http://habitry.com/collective.
 
-With that out of the way, the suggested communications are below.
-
-## Templates for lauching and running a Habitry Coaching Group.
+## Templates for pre-launch period.
 
 ### Emails
 
@@ -37,6 +35,8 @@ A “Community Introduction” email, sent on Sunday before your group starts (a
 This explains the habit the group will be working on, why it's important, how to scale it to each individual client's confidence level, and what to use as a piggbyback habit.
 
 **Template:** https://github.com/habitry/habitry-system/blob/master/Templates/05-announcing-teams.md
+
+## Templates for post-launch period.
 
 ### Communication Platform Posts
 
