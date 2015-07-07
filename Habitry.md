@@ -221,21 +221,21 @@ We anoint team leaders for every team. These people have one job: post the night
 
 ![Habitry by Week](http://answers.habitry.com/wp-content/uploads/2015/07/habitry-by-week.png)
 
-Monday - Introduce the Habit + Introduce Teams + Promote Scaling
-.
-Tuesday - Clarifying Post
-Wednesday - Post an article
-Thursday - Goldilocksing
-Friday - Goldilocks Checkin Post
-Saturday - Momentum Post
-Sunday - Momentum Post
-Monday - Individual Client Feedback
-Tuesday - Group Checkin
-Wednesday - Post an article
-Thursday - Goldilocksing
-Friday - Goldilocks Checkin Post
-Saturday - Momentum Post
-Sunday - Habit Review Post
+- Monday: Introduce the Habit + Introduce Teams + Promote Scaling
+- Tuesday: Clarifying Post
+- Wednesday: Post an article
+- Thursday: Goldilocksing
+- Friday: Goldilocks Checkin Post
+- Saturday: Momentum Post
+- Sunday: Momentum Post
+
+- Monday:  Individual Client Feedback
+- Tuesday:  Group Checkin
+- Wednesday: Post an article
+- Thursday: Goldilocksing
+- Friday: Goldilocks Checkin Post
+- Saturday: Momentum Post
+- Sunday: Habit Review Post
 
 #### The First Communications
 
