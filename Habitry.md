@@ -43,7 +43,7 @@ Even the best coaches are limited by time. We often only have our clients’ att
 
 There are so many benefits to providing this support in a group environment and Habitry Coaches learn a dozen more every time we read the feedback from a Habitry group. Habitry is entirely group-based. This has the added benefit for coaches of being able to manage larges groups of clients, all focused, motivated, and sharing the journey to their health and fitness goals, while using checkin data to to direct time and attention to the clients that need it most.
 
-#### The Features that Combine to Make it Habitry
+#### The Features that Combine to Make it “Habitry”
 
 1. One habit at a time.
 2. One habit per cohort.
@@ -219,7 +219,7 @@ We anoint team leaders for every team. These people have one job: post the night
 
 ### Habitry by Week
 
-![Habitry by Week](http://answers.habitry.com/wp-content/uploads/2015/07/habitry-by-week.png)
+![Habitry by Week][image-1]
 
 - Monday: Introduce the Habit + Introduce Teams + Promote Scaling
 - Tuesday: Clarifying Post
@@ -283,7 +283,6 @@ One of the most important steps in making something a habit is reflecting on the
 
 1.  What did I do well today?
 2.  What did I learn today?
-	  
 These inherently positive questions are probably the most powerful part of Habitry. Not only do they serve as a reminder of progress, but they reorient clients back to the process instead of the outcome, they boost confidence, and in numerous randomized-control trials, reflection questions like these have proven to increase people’s perception of happiness. And according to Martin Seligman, the questions themselves become addictive! And for Habitry, this step plays double duty as an important opportunity for clients to interact and support one another as well as serve as a reminder to check in. Many of my clients have been so excited to answer these questions every day that they served as the reminder to do the habit! Multiply that by all the members in the group hopping on Facebook and email to share their reflections, and clients no longer have to worry about “forgetting” to do their habit. JC Deen noted his clients jumped into this opportunity to share so quickly, that all he had to do was stand back and watch the gold pour in: “Most the coaching is done for me!”
 
 ###### Help someone else every day.
@@ -656,3 +655,5 @@ Translational Behavioral Medicine, 1(1), 165-174. doi:10.1007/s13142-010-0006-y 
 Online Discussion: The Role of Student Motivation. Journal of Educational Computing Research, 34(1), 67-89.
 
 Young, B. W. & Salmela, J. H. (2002). Perceptions of training and deliberate practice of middle distance runners. International Journal of Sport Psychology, 33(2), 167-181.
+
+[image-1]:	http://answers.habitry.com/wp-content/uploads/2015/07/habitry-by-week.png
