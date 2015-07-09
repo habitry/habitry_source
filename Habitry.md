@@ -70,11 +70,6 @@ There are so many benefits to providing this support in a group environment and 
 	- How to craft individual communications that maximize motivation.
 	- When to escalate the individual attention.
 	- Frequently asked questions.
-- Checklists for each step organized by week
-	- Before Kick-off
-	- Week 1
-	- Week 2
-	- Ongoing
 
 
 ### Creating a Culture of Change
@@ -390,9 +385,6 @@ For the last emails, ask these questions:
 • Was this program successful?
 • Would you do this again?
 • Would you recommend it to a friend?
-
-### Checklists
-Here you will find checklists to make sure you have everything you need for each week. Weeks 2-11 are the same items. These lists are not required, but I have attempted to make them exhaustive to include all of my suggestions. Please review them before each week to see if there is anything you’d like to add and to make sure you have everything you need to get started.
 
 ## References
 Arem, H., & Irwin, M. (2011). A review of web-based weight loss interventions in adults.Obesity Reviews, 12(5), e236-e243. doi:10.1111/j.1467-789X.2010.00787.x
