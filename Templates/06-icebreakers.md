@@ -11,7 +11,7 @@ But don’t worry. We have a little trick up our sleeve for using that social te
 For our purposes, icebreakers are open-ended questions that have three design features:
 
 1. They remove the fear of speaking up and
-2.They elicit similarities between clients so that
+2. They elicit similarities between clients so that
 3. Clients feel like they belong in a community of people just like them
 
 The best icebreakers help your clients feel that they will not be embarrassed for sharing information about themselves or making suggestions. They help us create a climate of speaking up.  That is crucial so that we can maximize what clients share and learn from each other.
