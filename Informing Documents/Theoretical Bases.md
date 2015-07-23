@@ -21,6 +21,7 @@ This is my ethical framework as you read about the theories in this appendix. I 
 
 ## Ego-Depletion
 > “Acts of self-control draw from a common, global resource. The resource is limited and vulnerable to becoming depleted over time, just as a muscle becomes tired after a period of exertion” Hagger, Wood, Stiff, & Chatzisarantis, 2010, pg. 496.
+
 Your client was totally going to eat a salad for dinner, but they said, “screw it” and got a Big Mac. They were going to go the gym five days this week, but were exhausted by Tuesday and slept in. They walked by the M&M jar at work 3 times, but on trips 4-10 they grabbed a few handfuls.
 
 As much as many of our clients think otherwise, these are not “moral lapses.” They are classic examples of what Baumeister, Bratslavsky, Muraven, and Tice first described as “ego-depletion” or the observed phenomenon that resisting temptation has a mental cost[^1]. And they are a fact of life. Drs. Baumeister and Tice have lead a generation of researchers into studying this new “Strength Model” of willpower which has held up quite well under meta-analysis[^2] and even crept into popular science journalism [^3]. And while there is still healthy debate on what substance is actually being “spent” and what mental processes are doing the spending [^4], the phenomenon of “ego-depletion,” of mentally “running out of gas” has been quite well established.
@@ -29,6 +30,7 @@ Why the Strength Model matters to Intentional Communities has more to do with th
 
 ## Habit-Formation
 > “Habits arise from context–response learning that is acquired slowly with experience.” Wood & Neal, 2007, pg. 844.
+
 Habits might be the most powerful and misunderstood forces in psychology, even by educated people who are out there promoting “habit-based coaching.” And the reason that habits are so powerful is “because the impetus for responding is outsourced to contextual cues, habit performance does not depend on the finite self-control resources required for more deliberative actions[^9].” Essentially habits don’t induce ego-depletion. They don’t use up willpower! But most popular habit-formation programs take a lot of willpower. Way more than I think coaches even appreciate. The result is that I think habits are getting a bad rep because many well-meaning coaches think they are promoting habit formation when they are really just burning through their clients’ willpower in a novel way. Intentional Communities can fix that.
 
 ### What’s a Habit?
@@ -63,6 +65,7 @@ As I said in the introduction, habits are amazing, powerful tools but if all you
 
 ## Social Cognitive Theory
 > “Learning would be exceedingly laborious… if people had to rely solely on the effects of their own actions to inform them what to do. _Fortunately, most human behavior is learned observationally through modeling_: from observing others one forms an idea of how new behaviors are performed” - (Bandura, 1997)
+
 How did you learn to smile? How did you learn to walk? How did you learn what is “right” and “wrong?” According to Albert Bandura and one of the most influential theories in social science, you learned by watching the people around you. Bandura, a developmental psychologist at Stanford, did a number of famous experiments with children in the 1960s who watched adults play with an inflatable doll called a “Bobo Doll.” From these “Bobo Doll Experiments,” Bandura developed a number of models throughout the 1970’s and 1980’s that coalesced after more experiments into “Social Cognitive Theory,” which proposes that personal (self-efficacy), behavioral (outcome expectancies like rewards and punishment), and environmental (physical and social context) factors interact with one another to produce learned behavior. So we learn by watching and mimicking others (modeling), seeing what happens when we do (outcome expectancies), which informs our individual belief that we can successfully perform a behavior (self-efficacy). Bringing people to learn together in groups not only provides lots of opportunities to watch other people, but it also provides a crucial cauldron for creating a lot of self-efficacy really fast. And understanding how to harness self-efficacy is more important than just about any other force that makes Intentional Communities so wildly successful.
 
 ### Self-Efficacy
@@ -93,6 +96,7 @@ Suddenly the simple fact of being surrounded by other people on their journey gi
 
 ## Self-Determination Theory
 > “Don’t ask ‘how can I motivate other people.” That’s the wrong way to think about it. Instead ask, ‘_how can I create the conditions within which other people will motivate themselves._’” - Ed Deci, PhD, Co-Founder of Self-Determination Theory
+
 For decades, people thought of motivation as a quality that varied only in amount. How much do I want that slice of pizza? How little do I want to work out? But in the 1970s, Ed Deci, PhD. and Richard Ryan, PhD. began to tease out motivation as not only something that varied in amount, but also in quality. Why do I want that slice of pizza? Why do I not want to workout? At first they found that motivation could be categorized as “intrinsic,” because we want to, and “extrinsic,” because others are incentivizing us. But this was just the tip of the motivational iceberg. 
 
 After 40 years and tens of thousands of experiments and papers by scientists from all over the world, Self-Determination Theory (SDT)[^26] has proven to be the most powerful framework for understanding why humans do what we do and what practitioners can do to improve the likelihood that people will feel motivated. According to SDT, people feel the most motivated when they feel like their “Basic Psychological Needs” are being supported (or at least not being thwarted). By being in conditions where these Basic Psychological Needs, autonomy, competence and relatedness to others (aka “belonging), are fostered our motivation quality and quantity improves and we are more likely to keep performing a task, and that task is more likely to become a part of our identity as well to form habits that make the competition of that task easier.
@@ -130,6 +134,7 @@ When I saw Ed Deci present on the state of Self-Determination Theory research at
 
 ## Achievement Goal Theory
 > “A mastery-oriented motivational climate tends to promote hard work, effort, co-operation, and personal development among individuals acting in that climate” Hagger & Chatzisarantis, 2008, pg. 92.
+
 While people in the motivation world were busy at work on Self-Determination Theory, the education and sport psychology worlds were cooking up research that showed the impact of different kinds of goals on motivation and performance. As the theories co-evolved, the concepts of “motivational climate” began to appear both Self-Determination Theory and Achievement Goal Theory[^37].
 
 ### Mastery Motivational Climate
