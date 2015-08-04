@@ -1,6 +1,6 @@
 ##Post #3: Weekly Individual Messages 
 
-We send a weekly message to each client to review with them how did they did in the past week. This is ised to keep them moving forward and provides an opportunity to ask for support.
+We send a weekly message to each client to review with them how did they did in the past week. This is used to keep them moving forward and provides an opportunity to ask for support.
 
 Hi [ClientName],
 
