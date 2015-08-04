@@ -11,6 +11,6 @@ Some of your highlights from the past week:
 * You leveled-up your planning skills. It’s really great to see how you planned out protein for a few days so that you could keep playing the fat loss game despite being out of town. That’s literally Rockstar status! [Specific and positive feedback connecting their actions to the best version of themselves]
 * Kept bringing positive energy to the group (that post describing your favorite way to prepare protein was useful!) [Specific and positive feedback connecting their actions to the group]
 
-Let’s keep building momentum in the coming week! What can we do to help you get started with the habit this week? :) [Focusing client back on process]
+Let’s keep building momentum! What can we do to help you get started with the habit this week? :) [Focusing client back on process]
 
 [CoachName]
