@@ -1,6 +1,55 @@
 # Habitry
 ## A tutorial for habit-based coaching in groups
-### ￼Introduction
+
+**Table of Contents**
+- [Introduction](#introduction)
+	- [The Problems](#the-problems)
+		- [The Problem with What “What” Means](#the-problem-with-what-what-means)
+		- [The Problem of How](#the-problem-of-how)
+	- [The Features that Combine to Make it “Habitry”](#the-features-that-combine-to-make-it-habitry)
+	- [What You’ll Find in this Tutorial](#what-youll-find-in-this-tutorial)
+- [Creating a Culture of Change](#creating-a-culture-of-change)
+		- [Habitry by the Numbers](#habitry-by-the-numbers)
+		- [What You’ll Need](#what-youll-need)
+- [Evidence Basis for the Techniques used in Habitry](#evidence-basis-for-the-techniques-used-in-habitry)
+	- [Coaches and Habitry](#coaches-and-habitry)
+- [Habitry Principles](#habitry-principles)
+	- [Momentum trumps everything.](#momentum-trumps-everything)
+	- [We only track one.](#we-only-track-one)
+	- [Teach self-awareness.](#teach-selfawareness)
+	- [Create the social conditions of success.](#create-the-social-conditions-of-success)
+	- [Nothing is required.](#nothing-is-required)
+	- [The path will emerge.](#the-path-will-emerge)
+	- [The clients are the experts in “how.” The coach is the expert in “what.”](#the-clients-are-the-experts-in-how-the-coach-is-the-expert-in-what)
+- [Major Features](#major-features)
+	- [Writing Scalable Habits](#writing-scalable-habits)
+		- [Rules](#rules)
+		- [The Structure](#the-structure)
+		- [Examples ](#examples)
+	- [Teams](#teams)
+		- [Team Leaders](#team-leaders)
+	- [Habitry by Week](#habitry-by-week)
+		- [The First Communications](#the-first-communications)
+			- [The Pre-Kickoff Message](#the-pre-kickoff-message)
+			- [The Kick-Off Message](#the-kickoff-message)
+				- [Start ridiculously small.](#start-ridiculously-small)
+				- [Do it every day.](#do-it-every-day)
+				- [Reflect on it every day.](#reflect-on-it-every-day)
+				- [Help someone else every day.](#help-someone-else-every-day)
+- [Getting Rolling](#getting-rolling)
+	- [Week 1](#week-1)
+	- [Communication to Individuals](#communication-to-individuals)
+- [The Cavalry: Troubleshooting](#the-cavalry-troubleshooting)
+	- [Losing focus on the habit](#losing-focus-on-the-habit)
+	- [Focusing too much on the outcome](#focusing-too-much-on-the-outcome)
+	- [Focusing too much on how other people are doing](#focusing-too-much-on-how-other-people-are-doing)
+- [Keeping the Momentum](#keeping-the-momentum)
+	- [Reviewing the Previous Habit](#reviewing-the-previous-habit)
+	- [Choosing the Next Habit](#choosing-the-next-habit)
+- [Checklists](#checklists)
+- [References](#references)
+
+### Introduction
 Habitry was inspired by interaction with clients as well as research into habit-formation and long-term motivation. One of Coach Stevo's first clients as a personal trainer was Erin, an 80 year old Irish woman who came into the gym, straight from Mass, only to find her previous personal trainer had stood her up for the 3rd time. She was hopping mad, and just wanted a personal trainer who would show up.
 
 “My doctor says I need to lose 15 pounds,” she told him with a slight Irish brogue. She was maybe 5’3” and did not look 80 years old. She was active, spry, and still worked a full time job managing the conversion of multiple hospitals to digital record-keeping systems. Her apparent motivation and positive attitude were inspiring to Stevo, even at 6AM.
