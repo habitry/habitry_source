@@ -1,6 +1,58 @@
 # Habitry
 ## A tutorial for habit-based coaching in groups
-### ￼Introduction
+**Table of Contents**
+
+- [Introduction](#)
+	- [The Problems](#)
+		- [The Problem with What “What” Means](#)
+		- [The Problem of How](#)
+	- [The Features that Combine to Make it “Habitry”](#)
+	- [What You’ll Find in this Tutorial](#)
+- [Creating a Culture of Change](#)
+		- [Habitry by the Numbers](#)
+		- [What You’ll Need](#)
+- [Evidence Basis for the Techniques used in Habitry](#)
+	- [Coaches and Habitry](#)
+- [Habitry Principles](#)
+	- [Momentum trumps everything.](#)
+	- [We only track one.](#)
+	- [Teach self-awareness.](#)
+	- [Create the social conditions of success.](#)
+	- [Nothing is required.](#)
+	- [The path will emerge.](#)
+	- [The clients are the experts in “how.” The coach is the expert in “what.”](#)
+- [Major Features](#)
+	- [Writing Scalable Habits](#)
+		- [Rules](#)
+		- [The Structure](#)
+		- [Examples ](#)
+	- [Teams](#)
+		- [Team Leaders](#)
+	- [Habitry by Week](#)
+		- [The First Communications](#)
+			- [The Pre-Kickoff Message](#)
+			- [The Kick-Off Message](#)
+				- [Start ridiculously small.](#)
+				- [Do it every day.](#)
+				- [Reflect on it every day.](#)
+				- [Help someone else every day.](#)
+	- [Getting Rolling](#)
+		- [Week 1](#)
+		- [Communication to Individuals](#)
+	- [The Cavalry: Troubleshooting](#)
+		- [Losing focus on the habit](#)
+		- [Focusing too much on the outcome](#)
+		- [Focusing too much on how other people are doing](#)
+	- [Keeping the Momentum](#)
+		- [Reviewing the Previous Habit](#)
+		- [Choosing the Next Habit](#)
+	- [Checklists](#)
+- [References](#)
+
+
+
+## A tutorial for habit-based coaching in groups
+### Introduction
 Habitry was inspired by interaction with clients as well as research into habit-formation and long-term motivation. One of Coach Stevo's first clients as a personal trainer was Erin, an 80 year old Irish woman who came into the gym, straight from Mass, only to find her previous personal trainer had stood her up for the 3rd time. She was hopping mad, and just wanted a personal trainer who would show up.
 
 “My doctor says I need to lose 15 pounds,” she told him with a slight Irish brogue. She was maybe 5’3” and did not look 80 years old. She was active, spry, and still worked a full time job managing the conversion of multiple hospitals to digital record-keeping systems. Her apparent motivation and positive attitude were inspiring to Stevo, even at 6AM.
