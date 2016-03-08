@@ -2,9 +2,6 @@
 #I want to start a community. How do I start?
 
 ##Quick Summary
-Provide a safe, positive, and judgement free space where members with common values and goals can share experiences.
-
-###How to Start
 
 1. Listen to what problems your clients and potential members have.
 
