@@ -1,5 +1,5 @@
 
-#How can I effectively attract the clients that need me?
+#How do I build an online coaching business?
 
 ##Quick Summary
 Starting your own online business is rewarding but it takes a long time. Longer than you think. Maintain a part time revenue stream while you build up your business. Make sure you’re very clear on WHO you serve and build strong relationships with those people.
