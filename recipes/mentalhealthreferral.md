@@ -15,9 +15,13 @@ Casually ask if they think seeking therapy might help improve their situation. B
 
 5. You may consider explaining some positive elements about seeking help/therapy:
 ..* A sign of strength and personal accountability.
+
 ..* Can be useful for anyone (not just “crazy people”).
+
 ..* Can be interesting and engaging.
+
 ..* Useful tools for dealing with unique problems.
+
 ..* Creating a team of professionals can better support you in your journey.
 
 6. If they are receptive, provide a specific referral to get additional help.
