@@ -27,5 +27,7 @@ Expect some fluctuations in group participation; there is a natural ebb when it 
 ###Where to Learn More
 
 [Essentials of Habit Coaching] (http://habitry.com/training/essentials-of-group-coaching) by Habitry
+
 [We Make Communities] (http://habitry.com/book) by Coach Stevo 
+
 [Buzzing Communities] (http://www.amazon.com/Buzzing-Communities-Bigger-Better-Active/dp/0988359901) by Richard Millington
