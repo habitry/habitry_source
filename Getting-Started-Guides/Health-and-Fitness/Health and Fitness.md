@@ -206,3 +206,84 @@ For example:
 17. What exercise do you most enjoy, and why?
 18. What’s one habit in the past that you’ve successfully built? How did you do it?
 
+###Week 1, Sunday AM: Introduce the habit
+
+Post a discussion thread to start a conversation about the habit. The goal of this thread is to get clients to post their personal habit statement. In English, that means you’ll want your clients to post when and how they’ll do the habit in the coming week.
+
+Here’s an example:
+
+>Hey [Insert Group Name. E.g., "Fat Loss Rockstars"]! 
+
+>Here’s your to-do list for today:
+1. Take 5 minutes to read this post to find out about our first habit (I will track what I eat) and how you can personalize it for *your* needs.
+2. Share how and when you’ll do the habit (your personal habit statement) in the comments. We’ve provided a template at the end of the post!
+
+>Habit: I will track what I eat
+
+>What’s important about doing this habit?
+
+>Getting a really good picture of what you’re eating now, day to day, is going to be a great starting place for what we do. The most important step in change is to create awareness.
+
+>How can I personalize this habit to my needs?
+
+>The first step is to scale the habit to something you are 90-100% confident you can do. 
+
+>You might want to track specific meals (just breakfasts, lunches, or dinners), or specific days (Mondays, Wednesdays, Fridays). 
+
+>This is very important: whatever you pick, it should be as easy as brushing your teeth.
+
+>Post your personal habit statement in the comments.
+
+Here’s a template:
+
+>I am 90-100% confident that I will [insert habit] for [insert how much or how often] after I [insert what’s going to remind you to do the habit] for the next 7 days.
+
+>Here’s an example:
+
+>I am 90-100% confident that I will track what I eat by writing down what I eat at dinner in my journal after I am done eating dinner, for 4 out of 7 days this week.
+
+>P.S. Don’t worry about making this perfect. We’ll help you adjust. In fact, that’s the whole point of getting coached.
+
+###Week 1, Sunday PM & Monday AM: Help personalize the habit
+
+Once you’ve introduced the habit to clients, you’ll want to do three things:
+
+1. Give each person a verbal high five for sharing their personal habit statement. This is as easy as saying “Awesome habit statement, (Name)!” or “Love your habit statement, (Name)!”
+
+2. Double-check to see if everyone has shared their personal habit statement.
+
+3. Answer any questions that clients might have.
+
+###Week 1, Monday PM: Post the first check-in
+
+Time to introduce your clients to one of the most important parts of the Habitry Method: the Two Questions. 
+
+The real goal of a Habitry Coach should be to get clients to learn their own way forward. This is why so much emphasis is placed on the Two Questions. Coach Stevo pored over the Positive Psychology literature to find these two reflection questions. 
+
+The “magical” thing about these two questions? They are inherently fun and self-rewarding to answer. And they help clients cultivate self-awareness. In fact, since reflection is the only thing that is actually repeated often enough to really become habit, it's the habit that we're actually trying to cultivate.
+
+Below, we’ve provided a template post for you to introduce the Two Questions.
+
+>Hey (Insert Group Name. E.g, “Rockstars”)!
+
+>How was Day 1? Did you write a personalized version of the habit? If you haven't shared with the group yet, feel free to post in tonight's reflection.
+
+>One of the funnest things you'll be doing during your time in [Insert Name of Your Habitry Group] is to answer... 
+
+>The Two Questions!
+
+1. What did I do well today? 
+2. What did I learn today?
+
+>These questions are so important that we want you to reflect on them every day.  
+
+>They might seem too simple at first. But we’ve tested them on hundreds of clients and the results for fat loss are off the charts.
+
+>The truth is, the most overlooked factor in building new habits is bridging the gap between what you want to do and the behavior that you're trying to make automatic. You've got to close the loop between your intention and your behavior, and it's as simple as answering The Two Questions.
+
+>It might sound magical, but the 90 seconds it takes to answer the two questions in the group, will actually make doing your habits in real life a zillion times easier.
+
+>So here they are for you. Let us know in the comments:
+
+1. What did I do well today? 
+2. What did I learn today?
