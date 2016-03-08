@@ -272,8 +272,8 @@ Below, we’ve provided a template post for you to introduce the Two Questions.
 
 >The Two Questions!
 
-1. What did I do well today? 
-2. What did I learn today?
+>1. What did I do well today? 
+>2. What did I learn today?
 
 >These questions are so important that we want you to reflect on them every day.  
 
@@ -285,5 +285,5 @@ Below, we’ve provided a template post for you to introduce the Two Questions.
 
 >So here they are for you. Let us know in the comments:
 
-1. What did I do well today? 
-2. What did I learn today?
+>1. What did I do well today? 
+>2. What did I learn today?
