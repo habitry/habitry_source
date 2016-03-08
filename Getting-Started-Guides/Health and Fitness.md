@@ -93,3 +93,53 @@ What you can expect from us: daily accountability from an expert coach and weekl
 >Finally, if you have any questions, feel free to post them in the group. Trust us, if you have a question, someone else has the same question. So ask away!
 
 >– Coach Name
+
+###2. Load the habit
+
+Let’s take 15 minutes to walk you through setting up an example Food Tracking habit on the Habitry Coaching Platform.
+
+If you want to use a different habit, you can write your own using the steps provided below. Or you can use one of the 24 habits in the Habitry Starter Kit. Just email me and I’ll send it to you.
+
+Make sure you have a habit set up in the app at least 48 hours before your group starts.
+
+1. Go to the Habitry Coaching Platform, tap on “Habits” at the bottom, then tap on the pen icon in the upper right corner.
+
+2. The Habitry Coaching Platform will ask you, “What is the habit?” Provide a label for the habit. 
+
+For example: “I will track what I eat.”
+
+3. You’ll now be back on the Habits screen. Tap on “I will track what I eat.”
+
+4. Select a start date. We recommend the upcoming Monday.
+
+5. Fill out the “Why” section. 
+
+Provide one or two reasons to clients about why they should practice the habit. Think tweet-length. 
+
+For example: “Getting a really good picture of what you’re eating now, day to day, is going to be a great starting place for what we do. The most important step in change is to create awareness.”
+
+6. Fill out the “How can I scale this habit?” section.
+
+Provide an example or two to your clients on how they can make practicing the habit as easy as possible for them.
+
+For example: “One of the most important things for you to succeed in [insert name of your Habitry coaching group] is tailoring each habit to you. 
+
+For this habit, and every other habit that you’ll do, we’ll tailor it by asking you to fill in the blanks in this sentence: 
+
+I am 90-100% confident that I will [insert habit] for [insert how much/how often] after I [habit to piggyback on] for the next 7 days. 
+
+The first step is to scale the habit to something you are 90-100% confident you can do. 
+
+You might want to track specific meals (just breakfasts, lunches, or dinners), or specific days (Mondays, Wednesdays, Fridays). 
+
+This is very important: whatever you pick, it should be as easy as brushing your teeth.
+
+7. Fill out the “What can I piggyback off of?” section.
+
+Provide directions on how clients can create a trigger for the habit. 
+
+For example: “You should plan to track what you eat right after a habit you already. So if you are going to track what you eat during dinner, finishing your dinner might be a good trigger to remind you to track what you just ate.”
+
+You just finished loading a “I will track what I eat” habit into the Habitry Coaching Platform for your clients!
+
+Now you just need to do one more task and you’ll be ready to invite clients into your Habitry Group.
