@@ -28,10 +28,14 @@ Coach Stevo, Omar Ganai, Georgie Fear, Roland Fisher, Sean Flanagan, Josh Hillis
 ###Where to Learn More
 
 [Habitry, Co.] (habitry.com)
+
 [Precision Nutrition] (precisionnutrition.com)
-[Why We Do What We Do], by Ed Deci (http://www.amazon.com/Why-We-What-Understanding-Self-Motivation/dp/0140255265)
-[The Power of Habit], Charles Duhigg (http://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU/)
-[Willpower], Roy Baumeister (http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength-ebook/dp/B0052REQCY/)
+
+[Why We Do What We Do, by Ed Deci] (http://www.amazon.com/Why-We-What-Understanding-Self-Motivation/dp/0140255265)
+
+[The Power of Habit, Charles Duhigg] (http://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU/)
+
+[Willpower, Roy Baumeister] (http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength-ebook/dp/B0052REQCY/)
 
 ###References
 
