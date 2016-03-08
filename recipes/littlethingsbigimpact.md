@@ -30,4 +30,5 @@ Consistently show up, be a little vulnerable, give them personal attention, and 
 ###Where to Learn More
 
 [Essentials of Habit Coaching] (http://habitry.com/training/essentials-of-group-coaching) by Habitry
+
 [We Make Communities] (http://habitry.com/book) by Coach Stevo 
