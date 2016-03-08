@@ -3,11 +3,11 @@
 
 ##Quick Summary
 
-Consistently show up, be a little vulnerable, give them personal attention, and provide a convenient way for them to socialize.
+Get clear on what help you want from them. Empower them and get them to invest in the community by asking them what they think you should do.
 
 ###How to Start
 
-1. Before asking people to become community leaders, we suggest getting clear on what you’d like to get out of them.
+Before asking people to become community leaders, we suggest getting clear on what you’d like to get out of them.
 
 * What would you like to get them to do in the group? 
 * What‘s your definition of a successful community leader? 
@@ -16,9 +16,9 @@ Consistently show up, be a little vulnerable, give them personal attention, and 
 
 Once you have an idea of answers to those questions, it‘s time to reach out. 
 
-2. Start by empowering them to invest in the community. And to do that, we need to get them talking about what THEY think of the community and where they’d like to see it go. 
+Start by empowering them to invest in the community. And to do that, we need to get them talking about what THEY think of the community and where they’d like to see it go. 
 
-3. The easiest way to do that is to have personal conversations with those some of your candidates, and ask them a simple open-ended question: 
+The easiest way to do that is to have personal conversations with those some of your candidates, and ask them a simple open-ended question: 
 
 >Hey! What do you think of (name of your community)?”
 
