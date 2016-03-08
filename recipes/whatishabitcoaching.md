@@ -25,4 +25,30 @@ Coach Stevo, Omar Ganai, Georgie Fear, Roland Fisher, Sean Flanagan, Josh Hillis
 
 * “There is no ‘after.'” – Josh Hillis
 
+###Where to Learn More
+
+[Habitry, Co.] (habitry.com)
+[Precision Nutrition] (precisionnutrition.com)
+[Why We Do What We Do], by Ed Deci (http://www.amazon.com/Why-We-What-Understanding-Self-Motivation/dp/0140255265)
+[The Power of Habit], Charles Duhigg (http://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU/)
+[Willpower], Roy Baumeister (http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength-ebook/dp/B0052REQCY/)
+
+###References
+
+Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: the psychology of “habit-formation” and general practice. The British Journal of General Practice: The Journal of the Royal College of General Practitioners, 62(605), 664–666. http://doi.org/10.3399/bjgp12X659466
+ 
+Lally, P., Chipperfield, A., & Wardle, J. (2007). Healthy habits: efficacy of simple advice on weight control based on a habit-formation model. Int J Obes, 32(4), 700–707.
+
+Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. http://doi.org/10.1002/ejsp.674
+
+Neal, D. T., Wood, W., & Drolet, A. (2013). How do people adhere to goals when willpower is low? The profits (and pitfalls) of strong habits. Journal of Personality and Social Psychology, 104(6), 959–975. http://doi.org/10.1037/a0032626
+ 
+Verplanken, B. (2006). Beyond frequency: Habit as mental construct. British Journal of Social Psychology, 45(3), 639–656. http://doi.org/10.1348/014466605X49122
+
+Wood, W., Labrecque, J. S., Lin, P.-Y., & Rünger, D. (2014). Habits in Dual Process Models. Dual-Process Theories of the Social Mind, 371.
+ 
+Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. Psychological review, 114(4), 843.
+
+Wood, W., Quinn, J. M., & Kashy, D. A. (2002). Habits in everyday life: Thought, emotion, and action. Journal of Personality and Social Psychology, 83(6), 1281–1297. http://doi.org/10.1037/0022-3514.83.6.1281
+
 
