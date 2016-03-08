@@ -15,7 +15,7 @@ Your clients may not feel they are “worth” the effort to change and struggle
 3. Many people with low self-worth are helpers. Start by helping them to understand that if they always put themselves last, they won’t be capable of helping the ones they love.
 
 4. Call attention to your clients language and self-talk. Are they constantly putting themselves down or are they allowing they celebrating their wins along the way?
-5. 
+
 5. Know your scope. A carpenter and a orthopedic surgeon do not have the same job, even though they use similar tools. Similarly, a coach is not a therapist or a psychologist.
 
 ###What Other Coaches Are Doing
