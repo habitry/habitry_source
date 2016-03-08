@@ -159,3 +159,28 @@ Coach tasks are highlighted in gold. Client tasks are highlighted in blue.
 **Morning posts will typically come from you.** These aren’t blog posts. Think two-three sentences and an open-ended question to start a group discussion. Then your clients (your selected team leaders) will post check-in threads in the evening time. 
 
 **I recommend checking on your group only twice a day.** Once in the morning and once in the evening, for 20-45 minutes. Anymore won’t be noticed by your clients. And it will also help your sanity :)
+
+###Daily Walkthrough to Coach Your First Habit
+
+Now that you have a general idea of the tasks you’ll be doing to coach your clients through their first habit, let’s get into the daily details. 
+
+##Week 1, Sunday AM: Post an icebreaker
+
+Icebreakers are open-ended questions that accomplish three things:
+
+1. They remove the fear of speaking up and
+2. They elicit similarities between clients so that
+3. Clients feel like they belong in a community of people just like them
+
+The best icebreakers help your clients feel that they will not be embarrassed for sharing information about themselves or making suggestions. They help us create a climate of speaking up. That is crucial so that we can maximize what clients share and learn from each other.
+
+You can and should come up with icebreakers specific to the values, personality, interests, and life experiences of your community. However, below are 18 icebreakers that we’ve tested successfully on clients. We’ve listed them for inspiration. 
+
+Pick one “serious” icebreaker and one “fun” icebreaker and post them into your group.
+
+For example:
+
+>Hey [Insert Group Name. E.g., "Fat Loss Rockstars"]! Introduce yourself and say hi.
+
+What’s the strongest thing you’ve ever done?
+Where would you hide a giraffe?
