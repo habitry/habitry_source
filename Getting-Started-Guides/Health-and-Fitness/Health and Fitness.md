@@ -153,3 +153,9 @@ Coach tasks are highlighted in gold. Client tasks are highlighted in blue.
 ![alt text][firsthabitschedule]
 
 [firsthabitschedule]: https://github.com/habitry/habitry_source/blob/master/Getting-Started-Guides/Health-and-Fitness/images/firsthabitschedule.jpg "Suggested Schedule for First Habit"
+
+**If this feels like a lot, don’t worry, it’s actually not.** After coaching thousands of people and helping dozens of coaches, we’ve seen everything, so we have templates for everything. We’ll get into those later in the guide. For now, I just wanted to give you an idea of what the suggested posting schedule looks like for a two week habit. 
+
+**Morning posts will typically come from you.** These aren’t blog posts. Think two-three sentences and an open-ended question to start a group discussion. Then your clients (your selected team leaders) will post check-in threads in the evening time. 
+
+**I recommend checking on your group only twice a day.** Once in the morning and once in the evening, for 20-45 minutes. Anymore won’t be noticed by your clients. And it will also help your sanity :)
