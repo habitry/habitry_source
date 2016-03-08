@@ -68,19 +68,28 @@ Here’s a template you can use:
 >2. Go to the Habitry app and introduce yourself in the welcome post
 >Today is going to be mainly about logistics. We are going to start on the first habit tomorrow, but today is about laying >the groundwork on two of the most important things we’ll be focusing on as we move forward: Community and Consistency.
 >What you can expect from us: daily accountability from an expert coach and weekly personal check-ins to get your feedback on >how things are going.
+
 >What we expect from you:
+
 >A. Endeavor to practice the current habit daily (more on this tomorrow).
 >B. Check-in daily via the threads that will be started to let us know if you did the habit (this is how we can keep track of >your progress).
 >C. Respond to the daily reflection questions we leave on the check-in threads.
 >D. Reach out daily to other community members.
+
 >That being said, a big reason why Habitry Groups work is because everything is optional. So, aim to do these things >everyday, but don’t make them a homework assignment. 
+
 >Checking in and responding to the reflection questions are important for your own journey.  They help to reinforce the >consistency needed to make each habit an actual habit.
+
 >Additionally, reaching out to your teammates is important because it helps to foster the spirit of support and encouragement >that is crucial for success. Some days we rock it, and some days we struggle a bit. Knowing that you have a core group of >teammates (in addition to your coaches!) that are there for you regardless of how the day went can make the low days seem >better, and the good days seem even more badass! 
+
 >Ready to join your team? You’re just three steps away:
 
 >1. Go to http://habitry.com/download to download and install the Habitry app.
 >2. When the Habitry app asks you to input your code, use this: [CLIENT’S CODE]
 >3. Introduce yourself in the welcome post in the app and join the discussion!
+
 >If you’re using iOS 9, you may get an “Untrusted Enterprise Developer” alert when opening Habitry. It’s totally normal: >Apple does this for apps that aren’t in the App Store yet (Habitry is in the process of applying). If you see this pop-up, >go to Settings >> General >> Device Management (or, if you're using 9.1 or earlier, go to Settings >> General >> Profile) to >add Habitry as a trusted developer. 
+
 >Finally, if you have any questions, feel free to post them in the group. Trust us, if you have a question, someone else has >the same question. So ask away!
+
 >– Coach Name
