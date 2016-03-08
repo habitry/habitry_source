@@ -4,17 +4,11 @@
 Understand that your energy levels will rise and fall throughout the day. Match your tasks to your energy levels. Also, make time for yourself to do things you enjoy and that you find restorative.
 ###How to Start
 
-There has been a lot written on habits, behavior change, and client communication styles, but the foundational principles are:
-
 1. Make time in your day to relax, unplug, or do an activity you enjoy. Block this time in your calendar and make it sacred.
 
 2. Monitor your emotional energy. You want to empathize with your clients and keep them positive but you don’t get caught up in their tumultuous roller coasters of emotion.
 
 3. Practice what you preach. Make sure you’re sleeping well, eating well, exercising often, and managing your relationships and stress levels.
-
-###What Other Coaches Are Doing
-
-Coach Stevo, Omar Ganai, Georgie Fear, Roland Fisher, Sean Flanagan, Josh Hillis, Spencer Nadolsky, Jennifer Campbell, Annie Brees, Lauren Koski, and many others in the [Motivate Collective] (https://www.facebook.com/groups/1399214610300935/) work in groups, both online and in person, to help people focus on changing one habit at a time, together. Many others use habit-centered approaches one-on-one for nutrition and lifestyle behavior. Coach Stevo and Spencer Nadolsky use habit-centered approaches for Strength Training. James Clear uses them for productivity.
 
 ###Top Tips From The Motivate Collective
 
