@@ -13,10 +13,6 @@ It can take anywhere from 18 to 254 days to make a habit automatic. It really de
 
 4. Practice patience.
 
-###What Other Coaches Are Doing
-
-Coach Stevo, Omar Ganai, Georgie Fear, Roland Fisher, Sean Flanagan, Josh Hillis, Spencer Nadolsky, Jennifer Campbell, Annie Brees, Lauren Koski, and many others in the [Motivate Collective] (https://www.facebook.com/groups/1399214610300935/) work in groups, both online and in person, to help people focus on changing one habit at a time, together. Many others use habit-centered approaches one-on-one for nutrition and lifestyle behavior. Coach Stevo and Spencer Nadolsky use habit-centered approaches for Strength Training. James Clear uses them for productivity.
-
 ###Top Tips From The Motivate Collective
 
 * “More complicated habits take more time.” – Lauren Koski
