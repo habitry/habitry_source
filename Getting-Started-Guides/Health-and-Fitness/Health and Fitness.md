@@ -153,4 +153,3 @@ Coach tasks are highlighted in gold. Client tasks are highlighted in blue.
 ![alt text][firsthabitschedule]
 
 [firsthabitschedule]: https://github.com/habitry/habitry_source/blob/master/Getting-Started-Guides/Health-and-Fitness/images/firsthabitschedule.jpg "Suggested Schedule for First Habit"
-Here's our logo (hover to see the title text):
