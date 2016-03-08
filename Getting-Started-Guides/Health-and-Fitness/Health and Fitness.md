@@ -182,5 +182,27 @@ For example:
 
 >Hey [Insert Group Name. E.g., "Fat Loss Rockstars"]! Introduce yourself and say hi.
 
-What’s the strongest thing you’ve ever done?
-Where would you hide a giraffe?
+>What’s the strongest thing you’ve ever done?
+>Where would you hide a giraffe?
+
+####18 Habitry-Tested Icebreakers
+
+1. What’s the strongest thing you’ve ever done?
+2. What’s your most silly fitness story?
+3. What excites you the most about joining this community?
+4. When was the last time you vomited, and why?
+5. If you had a giraffe, where would you hide it?
+6. If you could come back in your next life as an animal, what would it be?
+7. Tell us about your favorite book when you were young.
+8. What is your favorite movie, and why?
+9. When was the last time you laughed so hard you cried?
+10. If you had a theme song, what would it be, and why?
+11. What is the title of your autobiography?
+12. If you could have any superpower, what would it be, and why?
+13. What is your signature dance move?
+14. Who is your favorite person in the world, and why?
+15. What era of history would you most like to vacation to?
+16. If teleportation was possible, where would you go right now?
+17. What exercise do you most enjoy, and why?
+18. What’s one habit in the past that you’ve successfully built? How did you do it?
+
