@@ -39,5 +39,6 @@ Finally, whenever your client takes a step toward attaining that process goal, p
 ###Where to Learn More
 
 [They Don't Want Results, Coach Stevo] (http://habitry.com/blog/they-dont-want-results)
+
 [What's Your Client's Scoreboard?, Seth Munsey] (http://habitry.com/blog/whats-your-clients-scorecard/)
 
