@@ -36,3 +36,8 @@ Finally, whenever your client takes a step toward attaining that process goal, p
 
 * “I don’t define results for them, or even ask them for their definition of results. Because, do they really know? I don’t think so… I just get them into class, introduce them to everyone, get them winning right away, and deliver a ton of high fives. No expectations set.” – Seth Munsey
 
+###Where to Learn More
+
+[They Don't Want Results, Coach Stevo] (http://habitry.com/blog/they-dont-want-results)
+[What's Your Client's Scoreboard?, Seth Munsey] (http://habitry.com/blog/whats-your-clients-scorecard/)
+
