@@ -44,17 +44,17 @@ Here is an template you can use:
 
 >SUBJECT: [Insert Name of your Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] Begins Monday!
 
->Hey [Name], congratulations! You’re now officially a [Insert Group Name. E.g., "Fat Loss Rockstar"]! Over the coming months >(or however long you need), we’re going to use the power of community support and habits to help you build a sustainable fat >loss lifestyle. 
+>Hey [Name], congratulations! You’re now officially a [Insert Group Name. E.g., "Fat Loss Rockstar"]! Over the coming months (or however long you need), we’re going to use the power of community support and habits to help you build a sustainable fat loss lifestyle. 
 
 >On Sunday, I’ll send out an email inviting you to the Habitry app where all the magic will happen.
 
->But before we get started, I wanted to go over what you can expect from [Insert Name of Habitry Coaching Group. E.g., >“Rockstar Fat Loss Coaching Group”] and you should NOT expect:
+>But before we get started, I wanted to go over what you can expect from [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] and you should NOT expect:
 
->The [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] is NOT a “rapid fat loss” or >meal-based program. We’ll be working on one habit at a time, which you’ll master with all the other [Insert Group Name. >E.g., “Fat Loss Rockstars”]. 
+>The [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] is NOT a “rapid fat loss” or meal-based program. We’ll be working on one habit at a time, which you’ll master with all the other [Insert Group Name. E.g., “Fat Loss Rockstars”]. 
 
->The community is where all the magic happens. It’s where you’ll get the most experience learning about how to actually make >these habits work for your life. And where you’ll be meeting the other [Insert Group Name. E.g., Fat Loss Rockstars] on the >same journey as you.
+>The community is where all the magic happens. It’s where you’ll get the most experience learning about how to actually make these habits work for your life. And where you’ll be meeting the other [Insert Group Name. E.g., Fat Loss Rockstars] on the same journey as you.
 
->As promised, the [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] will be unlike any fat >loss program out there. As [Insert Group Name. E.g., “Fat Loss Rockstars”], you can expect unlimited and unconditional >support from me. So never hesitate to reach out!
+>As promised, the [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”] will be unlike any fat loss program out there. As [Insert Group Name. E.g., “Fat Loss Rockstars”], you can expect unlimited and unconditional support from me. So never hesitate to reach out!
 
 >– Coach Name
 
@@ -63,11 +63,11 @@ Here is an template you can use:
 Here’s a template you can use:
 
 >SUBJECT: Welcome to [Insert Name of Habitry Coaching Group. E.g., “Rockstar Fat Loss Coaching Group”]!
->Your to-do list for today:
->1. Read this email
->2. Go to the Habitry app and introduce yourself in the welcome post
->Today is going to be mainly about logistics. We are going to start on the first habit tomorrow, but today is about laying >the groundwork on two of the most important things we’ll be focusing on as we move forward: Community and Consistency.
->What you can expect from us: daily accountability from an expert coach and weekly personal check-ins to get your feedback on >how things are going.
+Your to-do list for today:
+1. Read this email
+2. Go to the Habitry app and introduce yourself in the welcome post
+Today is going to be mainly about logistics. We are going to start on the first habit tomorrow, but today is about laying the groundwork on two of the most important things we’ll be focusing on as we move forward: Community and Consistency.
+What you can expect from us: daily accountability from an expert coach and weekly personal check-ins to get your feedback on how things are going.
 
 >What we expect from you:
 
