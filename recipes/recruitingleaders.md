@@ -39,4 +39,5 @@ It usually takes about a week for them to start posting more and taking action.
 ###Where to Learn More
 
 [Essentials of Habit Coaching] (http://habitry.com/training/essentials-of-group-coaching) by Habitry
+
 [We Make Communities] (http://habitry.com/book) by Coach Stevo 
