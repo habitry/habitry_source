@@ -35,5 +35,7 @@ Provide a safe, positive, and judgement free space where members with common val
 ###Where to Learn More
 
 [Essentials of Habit Coaching] (http://habitry.com/training/essentials-of-group-coaching) by Habitry
+
 [We Make Communities] (http://habitry.com/book) by Coach Stevo 
-[Flip the Funnel] (http://www.amazon.com/Flip-Funnel-Existing-Customers-Gain-ebook/dp/B0034DGPQ8/ref=sr_1_1?s=books&ie=UTF8&qid=1434118947&sr=1-1&keywords=Flipping+the+Funnel) by Richard Millington
+
+[Flip the Funnel] (http://www.amazon.com/Flip-Funnel-Existing-Customers-Gain-ebook/dp/B0034DGPQ8/ref=sr_1_1?s=books&ie=UTF8&qid=1434118947&sr=1-1&keywords=Flipping+the+Funnel) by Joseph Jaffe
