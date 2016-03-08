@@ -84,12 +84,12 @@ What you can expect from us: daily accountability from an expert coach and weekl
 
 >Ready to join your team? You’re just three steps away:
 
->1. Go to http://habitry.com/download to download and install the Habitry app.
->2. When the Habitry app asks you to input your code, use this: [CLIENT’S CODE]
->3. Introduce yourself in the welcome post in the app and join the discussion!
+1. Go to http://habitry.com/download to download and install the Habitry app.
+2. When the Habitry app asks you to input your code, use this: [CLIENT’S CODE]
+3. Introduce yourself in the welcome post in the app and join the discussion!
 
->If you’re using iOS 9, you may get an “Untrusted Enterprise Developer” alert when opening Habitry. It’s totally normal: >Apple does this for apps that aren’t in the App Store yet (Habitry is in the process of applying). If you see this pop-up, >go to Settings >> General >> Device Management (or, if you're using 9.1 or earlier, go to Settings >> General >> Profile) to >add Habitry as a trusted developer. 
+>If you’re using iOS 9, you may get an “Untrusted Enterprise Developer” alert when opening Habitry. It’s totally normal: Apple does this for apps that aren’t in the App Store yet (Habitry is in the process of applying). If you see this pop-up, go to Settings >> General >> Device Management (or, if you're using 9.1 or earlier, go to Settings >> General >> Profile) to >add Habitry as a trusted developer. 
 
->Finally, if you have any questions, feel free to post them in the group. Trust us, if you have a question, someone else has >the same question. So ask away!
+>Finally, if you have any questions, feel free to post them in the group. Trust us, if you have a question, someone else has the same question. So ask away!
 
 >– Coach Name
