@@ -1,30 +1,32 @@
 #What are some warning signs that someone is about to fall off the wagon? What can you do about it?
 
 ##Quick Summary
-Keep asking them about the process. Show interest in the process. Reinforce how much they are enjoying the process.
+The biggest warning sign is a gradual reduction in communication (frequency and amount). Make it easy for them to re-engage with you.
 
 ###What Other Coaches Are Doing
 
-* Sell the process. Explain to them why focusing on the process will produce the outcomes they want.
+* Create a safe climate for clients to come to when they fall off the wagon. Set the expectation ahead of time that no one is perfect.
 
-* Praise the process, not the product.
+* Make it easy for them to re-engage with you. For example, let them know that simply the act of checking in with you or your coaching group is a step forward and a sign of progress.
 
-* Set process goals instead of outcome goals. For example, “I will make 10 sales calls this week” instead of “I will close 10 sales this week.”
+* Teach clients how to recognize their own warning signs and how to act when they notice them.
 
-* Keep asking them how they’re doing NOW.
+* Reframe. There is no “wagon” to “fall off" from.
 
 ###Top Tips From The Motivate Collective
 
-* “Help them understand they have choices, every process is made up of several small choices, then make suggestions for how they can change those choices” – Jonathan Chant
+* “Every client will struggle from time to time. Every one. The question is, do they feel safe to come to the coach/community with their concern? Or do they feel like they are “off the wagon” that everyone else is on and it will take a lot to “get back on”. In my experience, it’s setting the expectation ahead of time that it’s ok to not be perfect. We are human. The best place to be if you’re struggling is here, with us. Some clients will still isolate themselves… because they have a lot of long term programming that tells them to do that, and trying to get them to reengage will feel controlling for them. All you can do is create the space, let them know it’s ok to struggle, and give them the opportunity to do what they will.” – Ashley Palmer
 
-* “Minimize using the nominalization of verbs and adjectives, and use the gerund or ‘-ing’ form or present tense. Nominalizing is basically making a noun out of a verb or adjective. For instance, a person who ‘runs’ might be called a ‘runner’, a person who ‘trains’ other people can be called a ‘trainer.’ The problem that it can have is that it freezes or makes static the activity of running, and training. Whereas going through a process, it shows that you are evolving, growing and changing.
-Some other examples of nominalizations are phrases like ‘I want to be skinny’ or ‘I want to be strong’. Strong and skinny are adjectives that have become a static nominalization. What the person would want to say is ‘I am developing the skills and habits of a strong/skinny person.’
-” – KC Ushijima
+* “I honestly think this question is great, and also the wrong question. A coach does a disservice if they try and catch it and intervene. The better help is to teach the client how to recognize their own warning signals and to act.” – Roland Fisher
 
-* “Help them recognize the immediate/short term benefits they get from doing whatever it is and why these benefits are important to them.” – Rebecca Schubert
+* “What wagon?” – Devra Mattes
+
+* “I don’t worry about predicting or stopping them if we’re talking about overeating episodes or days of unbridled indulgence. Part of the journey is managing those, so I expect them to happen sooner or later and don’t sweat it at all. I wouldn’t want to stop them from getting that lesson. If we’re talking about warning signs someone may quit coaching, I’d say not returning emails or automated checkins.” – Georgie Fear
 
 ###Where to Learn More
 
-[7 Steps for Making Your Biggest Goals Achievable, Coach Stevo] (http://habitry.com/blog/7-steps-for-making-your-biggest-goals-achievable)
+[We Make Communities, Coach Stevo] (http://habitry.com/book)
+[There is no wagon, Georgie Fear] (https://www.facebook.com/georgie.fear/posts/813852722035598)
+
 
 
