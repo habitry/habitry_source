@@ -19,10 +19,10 @@ Coach Stevo, Omar Ganai, Georgie Fear, Roland Fisher, Sean Flanagan, Josh Hillis
 
 ###Top Tips from the Motivate Collective
 
-*“We only track one habit at a time.” – Coach Stevo
+* “We only track one habit at a time.” – Coach Stevo
 
-*“You didn’t fall off the wagon. THERE IS NO WAGON. No track, no road, you’re not “out of the groove” or “off the rails”, “up a creek” or any other metaphor we use to say we’re struggling. You’re where we ALL ARE: living a real life, that comes complete with easier time and harder times. That’s where you have always been and where you always will be.” – Georgie Fear
+* “You didn’t fall off the wagon. THERE IS NO WAGON. No track, no road, you’re not “out of the groove” or “off the rails”, “up a creek” or any other metaphor we use to say we’re struggling. You’re where we ALL ARE: living a real life, that comes complete with easier time and harder times. That’s where you have always been and where you always will be.” – Georgie Fear
 
-*“There is no ‘after.'” – Josh Hillis
+* “There is no ‘after.'” – Josh Hillis
 
 
