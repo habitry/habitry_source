@@ -578,3 +578,26 @@ Here are some example questions we’ve used:
 3. What parts of the habit, if any, will you keep doing?
 
 Again, don't be afraid to let people really hash it out. Some of the most useful discussions we’ve seen started with a client saying, “I hated this!”. 
+
+##Week 2, Sunday AM: Introduce the next habit
+
+Just like last time you introduced a habit. Post a discussion thread to start a conversation about the habit. The goal of this thread is to get clients to post their personal habit statement. In English, that means you’ll want your clients to post when and how they’ll do the habit in the coming week.
+
+##What next?
+
+Congratulations on coaching your group through their first habit! 
+
+Now let’s get into what you can expect after the first habit:
+
+1. Suggested schedule for all future habits
+2. Dealing with the “Habit Hangover” 
+
+##Suggested Schedule for All Future Habits
+
+Below is a suggested posting schedule for all future habits. 
+
+Coach tasks are highlighted in gold. Client tasks are highlighted in blue.
+
+![alt text][futurehabitschedule]
+
+[futurehabitschedule]: https://github.com/habitry/habitry_source/blob/master/Getting-Started-Guides/Health-and-Fitness/images/futurehabitsschedule.jpg "Suggested Schedule for Future Habits"
