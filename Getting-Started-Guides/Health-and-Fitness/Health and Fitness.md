@@ -620,8 +620,10 @@ But first, I want to share three tips to help you get some perspective.
 
 Okay let’s talk about how to help your clients get past the Habit Hangover.
 
-1. Keep supporting client autonomy. You can post a message like: 
+**1. Keep supporting client autonomy.** You can post a message like: 
 
 >“Hey guys! We think reflection is the secret sauce, but it's totes optional to do it here or skip a day or two if it feels like work. In fact, if this is starting to feel like work…that’s a sign that you’re on the right track! This is a stage that everyone has to get through on the way to changing their habits :)
 
 >So, feel free to share whatever is on your mind. You don’t have to only answer the Two Questions. If that means you want to say, ‘Hey guys, today sucked’, you can! We are here to support you no matter what. You get to decide how you want to use the group every day. Don't make it a homework assignment and try to keep it daily!”
+
+**2. Keep posting fun threads.**​ Use [Habitry Daily] (habitry.com/daily). Post more baby animals, jokes, and content about the community itself. You need to create more novelty, and it's totally fine if it's way off topic. If you're bored, then they were bored a week ago. Do things you think are fun. Do the things you want to do and talk about the things you want to talk about, and I bet they'll have fun too — because they were drawn to you for a reason. Supplement what you’re doing with lots of open-­ended questions to see how they are liking it.
