@@ -458,3 +458,106 @@ Don't be afraid to let people really hash it out. Some of the most useful discus
 ###Week 1, Sunday AM: Relax :)
 
 Congratulations on coaching your group through their first week!
+
+###Week 2, Monday AM: Send weekly private check-in messages
+
+We suggest sending weekly feedback to clients every Monday morning to recap how did they did last week and get them motivated for the week ahead.
+
+We suggest the following format:
+
+1. Let them know that you’ll be sending them weekly check-in messages every Monday (or whatever day works for you). 
+
+2. List the days they checked-in to do the habit. This helps them see that you’re paying personal attention to them. Optional: Add in a sentence or two that qualitatively recognizes a specific strength or behavior the client displayed, which led them in the direction of positive change. 
+
+3. Ask them to share their big win or insight from the week. And ask them how they might adjust the habit in the upcoming week.
+
+Here an example: 
+
+>Hey (Client Name)! Every Monday, I’ll be sending you a private message to get your input on the past week. The idea is to give you a chance to think about how the past week went for you and if you want to adjust anything. 
+
+>Based on your comments and taps on the checkmark, looks like you did the habit 6/7 days, which means you did the habit 1 more day than last week. The (Client Name) momentum train continues :)
+
+>What do *you* feel was your big win or insight from last week?
+
+>How, if at all, might you adjust your habit this week? How can we support you?
+
+The key is to always be looking to get them to talk about a win or insight. If you need help drafting these, let me know. I’m always happy to talk. 
+
+If clients bring up problems, ask for permission to open the discussion to their team, the group, or ask if they need a private phone call with you. Renegotiate the habit, bump up the support, make a plan, and don’t let them leave Monday without feeling 90-100% they can do this.
+
+###Week 2, Monday AM: Tell the group how they’re succeeding
+
+The real secret sauce of the Habitry Method is in creating a safe, supportive space for clients to talk about what they experience as they practice the habits.
+
+So your job, is to constantly reinforce that this group is a place where they can share all their successes and struggles. That these are the people who will help them change their habits. And that this is a place where they can talk about anything and everything. 
+
+You can post discussion questions that get people to reveal more about themselves so that a sense of community can develop. 
+
+You can remind your clients about why it’s so awesome to be in your community or get them into the habit of paying attention to their thoughts and behavior. Do this by providing specific, positive feedback to individual clients or posts group whenever they do something awesome for the community, or when they practice doing the habit.
+
+Here’s an example post to the group that you can use to get started:
+
+For example:
+
+>Hey (Insert Group Identity Label. E.g., “Rockstars”)!
+
+>It’s week 2! 
+
+>It’s been awesome watching each of you practice and get better at the habit.  And even better, it’s been really cool watching each of you notice how the habit is helping you personally.
+
+>Let’s take a few minutes to keep our momentum going. Let’s “goldilocks” the habit to make sure it’s not too hard or too easy for you this week.
+
+>Take a look at your habit statement from last week…
+
+>Were you able to do the habit as many times as you planned? If not, how might you personalize the habit more to hit that number? 
+
+>For example, maybe you need to pick a better trigger so you’re reminded more often to do the habit. 
+
+>Or maybe you need to make the habit easier to do. For example, if you realized you don’t like using a food tracking app, a notepad will work just fine! Or maybe just taking a picture on your phone. 
+
+>Share your plan for the week below! 
+
+###Week 2, Tuesday to Thursday AM: Start a group discussion
+
+>The real secret sauce of the Habitry Method is in creating a safe, supportive space for clients to talk about what they experience as they practice the habits.
+
+>So your job, is to constantly reinforce that this group is a place where they can share all their successes and struggles. That these are the people who will help them change their habits. And that this is a place where they can talk about anything and everything. 
+
+>You can post discussion questions that get people to reveal more about themselves so that a sense of community can develop.
+
+>You can remind your clients about why it’s so awesome to be in your community or get them into the habit of paying attention to their thoughts and behavior. Do this by providing specific, positive feedback to individual clients or posts group whenever they do something awesome for the community, or when they practice doing the habit.
+
+>Here’s an example post to the group that you can use to get started:
+ 
+>Hey (Insert Group Identity Label. E.g., “Rockstars”)!
+
+>I wanted to make a quick note to say I love all of the sharing in the introduction posts! I'm also super excited to see a couple themes keep popping up:
+
+>1) The enthusiasm for focusing on one habit at a time (not "give me all the habits!!!").
+
+>2) The understanding that this a COMMUNITY and that you will succeed (and struggle) TOGETHER.
+
+>What’s your favorite part of this community so far? :)
+
+>You also have the option of using [Habitry Daily] (http://habitry.com/daily), which is a group we created on the Habitry Coaching Platform for Habitry Coaches just like you. 
+
+>In that group, we share:
+
+>* One link (article, video, podcast)
+>* Two open-ended questions and
+>* One quote
+
+>And we share those every day. So that you never have to think about how to get engagement from your clients ever again. To access Habitry Daily, simply access your group drawer and then tap on “Habitry Daily”.
+
+###Week 2, Friday AM: Post “Weekend Momentum Plan” Check-in
+
+Today, you'll post a thread so everyone has a second chance to share their Weekend Momentum Plan.
+
+You can use the script below to introduce this concept.
+
+>Hey everyone!
+
+>If you haven’t had a chance yet, use this thread to share your Weekend Momentum Plan.
+
+>Post how you’ll track what you eat this weekend in the comments below!
+
