@@ -561,3 +561,20 @@ You can use the script below to introduce this concept.
 
 >Post how you’ll track what you eat this weekend in the comments below!
 
+###Week 2, Friday AM: Select and load the next habit
+
+You’ll need to have the next habit loaded in 48 hours before it starts. Assuming you want the next habit to start the coming Monday, that means you need to load it into the app by Friday midnight. This is to account for international time zone differences. 
+
+You can use one of the 24 habits in the Habitry Starter Kit. Or if you want help writing something new, let me know. We have habits for everything :) Just email me and I’ll send it to you.
+
+###Week 2, Saturday AM: Start habit review discussion
+
+This discussion is quite similar to the discussion you posted last Saturday. Except, you’ll want your clients to talk about the entire two weeks of the habit. And you’ll also want to give them a chance to share if they want to keep doing the habit.
+
+Here are some example questions we’ve used:
+
+1. What, if any, was your favorite part of the last habit?
+2. How, if at all, did doing the last habit help you?
+3. What parts of the habit, if any, will you keep doing?
+
+Again, don't be afraid to let people really hash it out. Some of the most useful discussions we’ve seen started with a client saying, “I hated this!”. 
