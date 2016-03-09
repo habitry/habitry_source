@@ -287,3 +287,69 @@ Below, we’ve provided a template post for you to introduce the Two Questions.
 
 >1. What did I do well today? 
 >2. What did I learn today?
+
+###Week 1, Tuesday AM: Introduce team leaders
+
+Today, your task is to pick your team leaders and introduce the concept of teams to your clients. 
+
+####Teams
+
+One of the early discoveries Coach Stevo made running Habitry groups was that as groups got larger, some conversations were just better and more useful with a smaller number of participants. Teams in Habitry Groups are not competitive, but collaborative.
+
+Teams accomplish two things:
+
+1. They help clients take more ownership over the group. This is great for motivation and engagement. It also makes your life a little bit easier :)
+
+2. In larger groups, teams provide a smaller group of people with whom client can choose to discuss the habits and reflection questions.
+
+#####How to ask people to be Team Leaders
+
+We anoint team leaders for every team. These people have one job: post the Two Questions every day.
+
+We have found that the best people for this job are your most engaged members, not necessarily the members with the highest concordance.
+
+Here’s one way you could ask:
+
+>Hey (ClientName)! 
+
+>One of the things we do is have someone be a team leader for each habit!
+
+>Since we love the energy you’ve been bringing to our budding community,would you like to be team leader for this habit? 
+
+>All you have to do is copy paste the Two Questions every day (plus a third fun/silly “bonus” question if you feel like).
+
+>Let us know! :D
+
+If they agree, thank them profusely. Then let your group know about the concept of teams. 
+
+**If your group is more than 16 clients**, you might find it useful to divide the group into teams. You’ll probably want teams of 8 to ensure that 2-4 people are engaged at all times. 
+
+Below is an example message you can use to announce teams and team leaders. 
+
+Also, don’t worry too much about picking team names. Have some fun here. If you get stuck, animal names always work well!
+
+>Hey (Group Name, i.e. “Fat Loss Rockstars”)! 
+
+>People are most successful when they are empowered to make lifestyle changes with other people on the same journey as them. That’s why we’ve divided you into (insert number) team(s). We’ll shake these teams and team leaders up every habit so everyone will get the chance to work with everyone else!
+
+>You’ll have the chance to check-in every night with your team, but post whatever you want to the whole group whenever you want to. Links, tips, thoughts, successes, struggles, anything you feel comfortable sharing. The purpose of the team is to make checking in easier for you, so you don’t need to worry about competing or anything. And we’ll still be coaching you privately and starting group discussions to help you, regularly. 
+
+>So without further ado… here are the teams for this habit!
+
+>Team Tiger
+>Team Leader: (name of team leader)
+>(Names of everyone else on the team)
+
+>Team Lion
+>Team Leader: (name of team leader)
+>(Names of everyone else on the team)
+
+**If your group is less than 16 clients**, your entire group will be one big team :) You can use the provided example below to announce teams.
+
+>Hey (Group Name, i.e. “Fat Loss Rockstars”)! 
+
+>People are most successful when they are empowered to make lifestyle changes with other people on the same journey as them. That’s why we’ll be giving one of you the chance to be team leader. We’ll shake the team leaders up every habit so everyone will get a chance.
+
+>The team leader’s job is to post the check-in thread every night. But even if you aren’t team leader, feel free post whatever you want to the whole group whenever you want to. Links, tips, thoughts, successes, struggles, anything you feel comfortable sharing. The purpose of having a team leader is to give you more freedom to shape the direction of the group. And we’ll still be coaching you privately and starting group discussions to help you, regularly.
+
+>So without further ado, (Name of team leader) has agreed to be team leader for this habit!
