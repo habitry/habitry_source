@@ -592,7 +592,7 @@ Now let’s get into what you can expect after the first habit:
 1. Suggested schedule for all future habits
 2. Dealing with the “Habit Hangover” 
 
-##Suggested Schedule for All Future Habits
+##1. Suggested Schedule for All Future Habits
 
 Below is a suggested posting schedule for all future habits. 
 
@@ -601,3 +601,27 @@ Coach tasks are highlighted in gold. Client tasks are highlighted in blue.
 ![alt text][futurehabitschedule]
 
 [futurehabitschedule]: https://github.com/habitry/habitry_source/blob/master/Getting-Started-Guides/Health-and-Fitness/images/futurehabitsschedule.jpg "Suggested Schedule for Future Habits"
+
+##2. Dealing with the “Habit Hangover”
+
+As you head into habit 2, you will see a drop in the number of posts that clients make. This is normal, inevitable, expected, and typical. We call this dip in social engagement the “Habit Hangover”.
+
+What’s happening? The novelty is wearing off and the habit of checking-in hasn’t formed yet. The key here is to tell clients that a drop in engagement is normal, inevitable, expected, and **a necessary part of the process of making new habits**.
+
+We have many techniques to get clients past the Habit Hangover. We share a couple of them below. 
+
+But first, I want to share three tips to help you get some perspective.
+
+**1. Treat the number of responses from clients to an individual post the same way you’d advise a weight loss client to treat the number on the scale on a specific day.** It’s data that only makes sense when you look at patterns over a long time (weeks or months). The day to day fluctuations can be random.
+
+**2. Did you know that a 0.5 to 2% engagement rate is considered REALLY GOOD?** Big name brands pay a professional to get 0.5 to 2 out of every 100 people on their Facebook pages to leave a comment. That means even if each of your clients is posting ONCE a week, you are killing it. That’s roughly a 7% engagement rate. You’re effectively destroying the biggest brands on Facebook :)
+
+**3. Did you know that only 33% of people take their medication as prescribed by their doctor?** That’s for taking a pill for CANCER. So keep this number in mind when thinking about how your clients are doing in terms of building habits. Finally, know that the industry average for client concordance for nutrition habits is 14%. So if your clients do the habit more than 2 out of 14 days for a two week habit, they are beating the industry average!
+
+Okay let’s talk about how to help your clients get past the Habit Hangover.
+
+1. Keep supporting client autonomy. You can post a message like: 
+
+>“Hey guys! We think reflection is the secret sauce, but it's totes optional to do it here or skip a day or two if it feels like work. In fact, if this is starting to feel like work…that’s a sign that you’re on the right track! This is a stage that everyone has to get through on the way to changing their habits :)
+
+>So, feel free to share whatever is on your mind. You don’t have to only answer the Two Questions. If that means you want to say, ‘Hey guys, today sucked’, you can! We are here to support you no matter what. You get to decide how you want to use the group every day. Don't make it a homework assignment and try to keep it daily!”
