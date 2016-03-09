@@ -10,7 +10,7 @@ In this short guide, we’ll show you the exact steps you can follow coach your 
 
 We can’t wait to see you create lasting change for your clients. 
 
-Omar Ganai
+Omar Ganaipo
 Head of Coaching Success, Habitry
 
 P.S. If you have any questions, feel free to reach out to me: omar@habitry.com. I’m always happy to talk!
@@ -185,7 +185,7 @@ For example:
 >What’s the strongest thing you’ve ever done?
 >Where would you hide a giraffe?
 
-####18 Habitry-Tested Icebreakers
+###18 Habitry-Tested Icebreakers
 
 1. What’s the strongest thing you’ve ever done?
 2. What’s your most silly fitness story?
@@ -206,7 +206,7 @@ For example:
 17. What exercise do you most enjoy, and why?
 18. What’s one habit in the past that you’ve successfully built? How did you do it?
 
-###Week 1, Sunday AM: Introduce the habit
+##Week 1, Sunday AM: Introduce the habit
 
 Post a discussion thread to start a conversation about the habit. The goal of this thread is to get clients to post their personal habit statement. In English, that means you’ll want your clients to post when and how they’ll do the habit in the coming week.
 
@@ -244,7 +244,7 @@ Here’s a template:
 
 >P.S. Don’t worry about making this perfect. We’ll help you adjust. In fact, that’s the whole point of getting coached.
 
-###Week 1, Sunday PM & Monday AM: Help personalize the habit
+##Week 1, Sunday PM & Monday AM: Help personalize the habit
 
 Once you’ve introduced the habit to clients, you’ll want to do three things:
 
@@ -254,7 +254,7 @@ Once you’ve introduced the habit to clients, you’ll want to do three things:
 
 3. Answer any questions that clients might have.
 
-###Week 1, Monday PM: Post the first check-in
+##Week 1, Monday PM: Post the first check-in
 
 Time to introduce your clients to one of the most important parts of the Habitry Method: the Two Questions. 
 
@@ -288,11 +288,11 @@ Below, we’ve provided a template post for you to introduce the Two Questions.
 >1. What did I do well today? 
 >2. What did I learn today?
 
-###Week 1, Tuesday AM: Introduce team leaders
+##Week 1, Tuesday AM: Introduce team leaders
 
 Today, your task is to pick your team leaders and introduce the concept of teams to your clients. 
 
-####Teams
+###Teams
 
 One of the early discoveries Coach Stevo made running Habitry groups was that as groups got larger, some conversations were just better and more useful with a smaller number of participants. Teams in Habitry Groups are not competitive, but collaborative.
 
@@ -302,7 +302,7 @@ Teams accomplish two things:
 
 2. In larger groups, teams provide a smaller group of people with whom client can choose to discuss the habits and reflection questions.
 
-#####How to ask people to be Team Leaders
+####How to ask people to be Team Leaders
 
 We anoint team leaders for every team. These people have one job: post the Two Questions every day.
 
@@ -354,7 +354,7 @@ Also, don’t worry too much about picking team names. Have some fun here. If yo
 
 >So without further ado, (Name of team leader) has agreed to be team leader for this habit!
 
-###Week 1, Tuesday PM: Provide team leader check-in template
+##Week 1, Tuesday PM: Provide team leader check-in template
 
 Once you have a team leader, private message them the following template so they know exactly how to post the check-in thread every day.
 
@@ -372,7 +372,7 @@ Hey (Name of leader), here’s a template you can copy paste to post the check-i
 
 >Bonus: (insert fun bonus question here if you want).
 
-###Week 1, Wednesday AM: Start a group discussion
+##Week 1, Wednesday AM: Start a group discussion
 
 >The real secret sauce of the Habitry Method is in creating a safe, supportive space for clients to talk about what they experience as they practice the habits.
 
@@ -404,7 +404,7 @@ Hey (Name of leader), here’s a template you can copy paste to post the check-i
 
 >And we share those every day. So that you never have to think about how to get engagement from your clients ever again. To access Habitry Daily, simply access your group drawer and then tap on “Habitry Daily”.
 
-###Week 1, Thursday AM: Introduce “Weekend Momentum Plan”
+##Week 1, Thursday AM: Introduce “Weekend Momentum Plan”
 
 The first Habitry principle is: "Momentum trumps everything." 
 
@@ -430,7 +430,7 @@ You can use the example script below to introduce this concept.
 
 >Post how you’ll track what you eat this weekend in the comments below!
 
-###Week 1, Friday AM: Post “Weekend Momentum Plan” Check-in
+##Week 1, Friday AM: Post “Weekend Momentum Plan” Check-in
 
 Today, you'll post a thread so everyone has a second chance to share their Weekend Momentum Plan.
 
@@ -442,7 +442,7 @@ You can use the script below to introduce this concept.
 
 >Post how you’ll track what you eat this weekend in the comments below!
 
-###Week 1, Saturday AM: Start weekly review discussion
+##Week 1, Saturday AM: Start weekly review discussion
 
 One of the most valuable tools for your Habitry Group will be dedicated time every Saturday and Sunday to get your clients to reflecting on the previous week’s habit practice. This allows the people that did really well and the people that struggled to inform each other and take those lessons into the coming week. 
 
@@ -455,11 +455,11 @@ Here are ones we’ve used:
 
 Don't be afraid to let people really hash it out. Some of the most useful discussions we’ve seen started with a client saying, “I hated this!”. 
 
-###Week 1, Sunday AM: Relax :)
+##Week 1, Sunday AM: Relax :)
 
 Congratulations on coaching your group through their first week!
 
-###Week 2, Monday AM: Send weekly private check-in messages
+##Week 2, Monday AM: Send weekly private check-in messages
 
 We suggest sending weekly feedback to clients every Monday morning to recap how did they did last week and get them motivated for the week ahead.
 
@@ -485,7 +485,7 @@ The key is to always be looking to get them to talk about a win or insight. If y
 
 If clients bring up problems, ask for permission to open the discussion to their team, the group, or ask if they need a private phone call with you. Renegotiate the habit, bump up the support, make a plan, and don’t let them leave Monday without feeling 90-100% they can do this.
 
-###Week 2, Monday AM: Tell the group how they’re succeeding
+##Week 2, Monday AM: Tell the group how they’re succeeding
 
 The real secret sauce of the Habitry Method is in creating a safe, supportive space for clients to talk about what they experience as they practice the habits.
 
@@ -517,7 +517,7 @@ For example:
 
 >Share your plan for the week below! 
 
-###Week 2, Tuesday to Thursday AM: Start a group discussion
+##Week 2, Tuesday to Thursday AM: Start a group discussion
 
 >The real secret sauce of the Habitry Method is in creating a safe, supportive space for clients to talk about what they experience as they practice the habits.
 
@@ -549,7 +549,7 @@ For example:
 
 >And we share those every day. So that you never have to think about how to get engagement from your clients ever again. To access Habitry Daily, simply access your group drawer and then tap on “Habitry Daily”.
 
-###Week 2, Friday AM: Post “Weekend Momentum Plan” Check-in
+##Week 2, Friday AM: Post “Weekend Momentum Plan” Check-in
 
 Today, you'll post a thread so everyone has a second chance to share their Weekend Momentum Plan.
 
@@ -561,13 +561,13 @@ You can use the script below to introduce this concept.
 
 >Post how you’ll track what you eat this weekend in the comments below!
 
-###Week 2, Friday AM: Select and load the next habit
+##Week 2, Friday AM: Select and load the next habit
 
 You’ll need to have the next habit loaded in 48 hours before it starts. Assuming you want the next habit to start the coming Monday, that means you need to load it into the app by Friday midnight. This is to account for international time zone differences. 
 
 You can use one of the 24 habits in the Habitry Starter Kit. Or if you want help writing something new, let me know. We have habits for everything :) Just email me and I’ll send it to you.
 
-###Week 2, Saturday AM: Start habit review discussion
+##Week 2, Saturday AM: Start habit review discussion
 
 This discussion is quite similar to the discussion you posted last Saturday. Except, you’ll want your clients to talk about the entire two weeks of the habit. And you’ll also want to give them a chance to share if they want to keep doing the habit.
 
