@@ -353,3 +353,53 @@ Also, don’t worry too much about picking team names. Have some fun here. If yo
 >The team leader’s job is to post the check-in thread every night. But even if you aren’t team leader, feel free post whatever you want to the whole group whenever you want to. Links, tips, thoughts, successes, struggles, anything you feel comfortable sharing. The purpose of having a team leader is to give you more freedom to shape the direction of the group. And we’ll still be coaching you privately and starting group discussions to help you, regularly.
 
 >So without further ado, (Name of team leader) has agreed to be team leader for this habit!
+
+###Week 1, Tuesday PM: Provide team leader check-in template
+
+Once you have a team leader, private message them the following template so they know exactly how to post the check-in thread every day.
+
+Hey (Name of leader), here’s a template you can copy paste to post the check-in thread every day. Thanks again and don’t hesitate to message us if you have any questions!
+
+>[Monday Check-In: Habit Name Goes Here]
+
+>Hey team!
+
+>If you did the habit, tap the checkmark at the bottom of the screen.
+
+>1. What did you learn?
+
+>2. What did you do well?
+
+>Bonus: (insert fun bonus question here if you want).
+
+###Week 1, Wednesday AM: Start a group discussion
+
+>The real secret sauce of the Habitry Method is in creating a safe, supportive space for clients to talk about what they experience as they practice the habits.
+
+>So your job, is to constantly reinforce that this group is a place where they can share all their successes and struggles. That these are the people who will help them change their habits. And that this is a place where they can talk about anything and everything. 
+
+>You can post discussion questions that get people to reveal more about themselves so that a sense of community can develop.
+
+>You can remind your clients about why it’s so awesome to be in your community or get them into the habit of paying attention to their thoughts and behavior. Do this by providing specific, positive feedback to individual clients or posts group whenever they do something awesome for the community, or when they practice doing the habit.
+
+>Here’s an example post to the group that you can use to get started:
+ 
+>Hey (Insert Group Identity Label. E.g., “Rockstars”)!
+
+>I wanted to make a quick note to say I love all of the sharing in the introduction posts! I'm also super excited to see a couple themes keep popping up:
+
+>1) The enthusiasm for focusing on one habit at a time (not "give me all the habits!!!").
+
+>2) The understanding that this a COMMUNITY and that you will succeed (and struggle) TOGETHER.
+
+>What’s your favorite part of this community so far? :)
+
+>You also have the option of using [Habitry Daily] (http://habitry.com/daily), which is a group we created on the Habitry Coaching Platform for Habitry Coaches just like you. 
+
+>In that group, we share:
+
+* One link (article, video, podcast)
+* Two open-ended questions and
+* One quote
+
+>And we share those every day. So that you never have to think about how to get engagement from your clients ever again. To access Habitry Daily, simply access your group drawer and then tap on “Habitry Daily”.
