@@ -398,8 +398,63 @@ Hey (Name of leader), here’s a template you can copy paste to post the check-i
 
 >In that group, we share:
 
-* One link (article, video, podcast)
-* Two open-ended questions and
-* One quote
+>* One link (article, video, podcast)
+>* Two open-ended questions and
+>* One quote
 
 >And we share those every day. So that you never have to think about how to get engagement from your clients ever again. To access Habitry Daily, simply access your group drawer and then tap on “Habitry Daily”.
+
+###Week 1, Thursday AM: Introduce “Weekend Momentum Plan”
+
+The first Habitry principle is: "Momentum trumps everything." 
+
+Today, you'll work on getting your clients into the habit of keeping the momentum going over the weekend. The task is simple: ask your clients to post a super easy version of their habit for the weekend. 
+
+You can use the example script below to introduce this concept.
+
+>Hey everyone!
+
+>When it comes to building a healthy lifestyle, only one thing matters: MOMENTUM. 
+
+>It doesn’t matter if you’re moving ahead quickly or one step at a time, all that matters is you’re moving forward.
+
+>So when the going gets tough, we make tough easy.
+
+>So let's set you up to *win* this weekend.
+
+>How? By doing an easy version of your “I will track what I eat” habit for the weekend.
+
+>This should be so easy that it should require as much energy as brushing your teeth.
+
+>You'll win the weekend and you’ll roll into next week with the kind of momentum you get from having rocked *your plan* last week!
+
+>Post how you’ll track what you eat this weekend in the comments below!
+
+###Week 1, Friday AM: Post “Weekend Momentum Plan” Check-in
+
+Today, you'll post a thread so everyone has a second chance to share their Weekend Momentum Plan.
+
+You can use the script below to introduce this concept.
+
+>Hey everyone!
+
+>If you haven’t had a chance yet, use this thread to share your Weekend Momentum Plan.
+
+>Post how you’ll track what you eat this weekend in the comments below!
+
+###Week 1, Saturday AM: Start weekly review discussion
+
+One of the most valuable tools for your Habitry Group will be dedicated time every Saturday and Sunday to get your clients to reflecting on the previous week’s habit practice. This allows the people that did really well and the people that struggled to inform each other and take those lessons into the coming week. 
+
+We recommend giving the reflection some structure such as a series of open-ended questions. 
+
+Here are ones we’ve used:
+
+1. What went well; what did you learn?
+2. How, if at all, will you adjust the habit next week (based on your learning last week)?
+
+Don't be afraid to let people really hash it out. Some of the most useful discussions we’ve seen started with a client saying, “I hated this!”. 
+
+###Week 1, Sunday AM: Relax :)
+
+Congratulations on coaching your group through their first week!
