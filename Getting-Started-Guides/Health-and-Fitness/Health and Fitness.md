@@ -626,4 +626,12 @@ Okay let’s talk about how to help your clients get past the Habit Hangover.
 
 >So, feel free to share whatever is on your mind. You don’t have to only answer the Two Questions. If that means you want to say, ‘Hey guys, today sucked’, you can! We are here to support you no matter what. You get to decide how you want to use the group every day. Don't make it a homework assignment and try to keep it daily!”
 
-**2. Keep posting fun threads.**​ Use [Habitry Daily] (habitry.com/daily). Post more baby animals, jokes, and content about the community itself. You need to create more novelty, and it's totally fine if it's way off topic. If you're bored, then they were bored a week ago. Do things you think are fun. Do the things you want to do and talk about the things you want to talk about, and I bet they'll have fun too — because they were drawn to you for a reason. Supplement what you’re doing with lots of open-­ended questions to see how they are liking it.
+**2. Keep posting fun threads.**​ Use [Habitry Daily] (http://habitry.com/daily). Post more baby animals, jokes, and content about the community itself. You need to create more novelty, and it's totally fine if it's way off topic. If you're bored, then they were bored a week ago. Do things you think are fun. Do the things you want to do and talk about the things you want to talk about, and I bet they'll have fun too — because they were drawn to you for a reason. Supplement what you’re doing with lots of open-­ended questions to see how they are liking it.
+
+##You’re Not Alone. Here’s How to Get More Support.
+
+**Habitry Pros.** This is a group on the Habitry Coaching Platform where Habitry Coaches like you can get daily support from the Habitry Team and other Habitry Coaches. Just hit the groups drawer and tap “Habitry Pros” to access it.
+
+**Habitry Marketing and Promotions Group.** This is a Facebook group for Habitry Coaches to talk about how to promote and sell Habitry Groups. Email me to get added: omar@habitry.com.
+
+**Message me!** I’m available for questions over [Facebook Messenger] (https://www.facebook.com/omaratlasganai) and [email] (mailto:hello@habitry.com). 
