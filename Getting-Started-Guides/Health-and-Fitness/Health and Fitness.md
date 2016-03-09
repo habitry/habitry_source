@@ -632,6 +632,6 @@ Okay let’s talk about how to help your clients get past the Habit Hangover.
 
 **Habitry Pros.** This is a group on the Habitry Coaching Platform where Habitry Coaches like you can get daily support from the Habitry Team and other Habitry Coaches. Just hit the groups drawer and tap “Habitry Pros” to access it.
 
-**Habitry Marketing and Promotions Group.** This is a Facebook group for Habitry Coaches to talk about how to promote and sell Habitry Groups. Email me to get added: omar@habitry.com.
+**Habitry Marketing and Promotions Group.** This is a Facebook group for Habitry Coaches to talk about how to promote and sell Habitry Groups. [Email] (mailto:hello@habitry.com) me to get added.
 
 **Message me!** I’m available for questions over [Facebook Messenger] (https://www.facebook.com/omaratlasganai) and [email] (mailto:hello@habitry.com). 
