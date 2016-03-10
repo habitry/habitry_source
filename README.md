@@ -54,7 +54,7 @@ Habit Templates are what get "delivered" to the people you're helping. They're h
 Conversation starters are the "posts" you send to the group when you want to get them thinking about the Habit and what they're learning. Some of these posts are "special" such as "Goldilocking" and "Momentum Plans." We use a rough outline to generate these scheduled posts, shown below with a Sunday "start day"
 
 
-|---| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| **Week** | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|---------|-----------|----------|--------|----------|--------|
 | Week 1 | Introduce the Habit | Help personalize the habit | Start a group discussion | Start a group discussion | Introduce Weekend Momentum Plan | Weekend Momentum Plan Check In | Start Review Discussion |
 | Week 2 |     | Weekly Private Feedback | Start a group discussion | Start a group discussion | Start a group discussion | Weekend Momentum Plan Check In | Habit Review Discussion |
