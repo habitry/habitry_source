@@ -1,7 +1,7 @@
 # The Habitry Source Code
 This is the official home of Habitry, a habit-based system for creating communities of change created by Habitry, Co. 
 
-If you're looking for a book-like thing, you should read the [tutorial](http://github.com/habitry/habitry_source/blob/master/Habitry.md).
+If you're looking for a book-like thing, you should read the [tutorial](https://github.com/habitry/habitry_source/blob/master/Habitry_Tutorial.md).
 
 If you want to get started fast, fork it.
 
@@ -16,7 +16,7 @@ Habitry Source is the master set of documents for implemnting the Habitry Method
 ##How to Use
 
 ###Getting Started
-Read the [ReadMe](/habitry_source/readme.md), read the [tutorial](/habitry_source/Habitry_Tutorial.md) if you want a more "book-like" experience, and read the [getting started guide](/habitry_source/) if you want a checklist format.
+Read the [ReadMe](https://github.com/habitry/habitry_source/blob/master/readme.md), read the [tutorial](https://github.com/habitry/habitry_source/blob/master/Habitry_Tutorial.md) if you want a more "book-like" experience, and read the [getting started guide](https://github.com/habitry/habitry_source/blob/master/Habitry_Tutorial.md) if you want a checklist format.
 
 ###Organization
 Habitry Source is organized into 3 main folder trees like this:
