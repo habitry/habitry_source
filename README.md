@@ -48,7 +48,7 @@ Micro-skills are the smaller components of Skills. The stuff we can practice, ak
 Habits are the heart of the Habitry Method. Habits are how you get a whole community to practice micro-skills together in order to learn the greater skills. We also call these, "shared process goals." We keep these in a separate folder because the even though the Habits can be thought of as a "smaller component" of a micro-skill, it's better to think of the "Skills" folder as what generates the Habits folder (even though Recipes can influence the generation of both, but more on that later). The Habits are what you and you're team are going to be working with every day.
 
 #####Habit Templates
-Habit Templates are what get "delivered" to the people you're helping. They're how you introduce the group practice for a pre-set amount of time (usually 7-14 days) in a way that makes them the most likely to want to do it. These are carefully worded in order to balance the flexibilty needed to allow anyone to "personalize" the habit into a Habit Statement, but share enough commonality to help everyone move in the same direction. We have included a standard template and we also made a [form](typeform) you can fill out to generate your own templates.
+Habit Templates are what get "delivered" to the people you're helping. They're how you introduce the group practice for a pre-set amount of time (usually 7-14 days) in a way that makes them the most likely to want to do it. These are carefully worded in order to balance the flexibilty needed to allow anyone to "personalize" the habit into a Habit Statement, but share enough commonality to help everyone move in the same direction. We have included a standard template and we also made a [form](https://habitry.typeform.com/to/tWaGnO) you can fill out to generate your own templates.
 
 ######Conversation Starters
 Conversation starters are the "posts" you send to the group when you want to get them thinking about the Habit and what they're learning. Some of these posts are "special" such as "Goldilocking" and "Momentum Plans." We use a rough outline to generate these scheduled posts, shown below with a Sunday "start day"
@@ -62,7 +62,7 @@ Conversation starters are the "posts" you send to the group when you want to get
 We have included templates for each of these formats and made a form for creating your own.
 
 ####Recipes
-Recipes are the FAQ section of Habitry Source. These are the "algorithms" or "config files" that help you interact andcontinually  promote a sense of momentum, autonomy, and belonging in your teams. If you have a specific question about "What do I do when..." or "how do I know if..." the recipes are the place to look. You can generate your own recipes using our included templates or our form generator which will help your team create their own recipes.
+Recipes are the FAQ section of Habitry Source. These are the "algorithms" or "config files" that help you interact andcontinually  promote a sense of momentum, autonomy, and belonging in your teams. If you have a specific question about "What do I do when..." or "how do I know if..." the recipes are the place to look. You can generate your own recipes using our included templates or our ~~form generator which will help your team create their own recipes.~~
 
 ####Global Files
 Global files are skills, habits, and recipes that every Habitry Program needs to function well. Think of these as the skills, habits, and repices of running a Habitry Program (yes, that's right: even Habitry can be taught using Habitry). If you want to get started on a Habitry Prgram and don't know what Habits to start with, a good way to go might be just starting with the Global Habits and filling the rest out later.
@@ -72,8 +72,8 @@ If you don't know how to help people learn these, we recommend taking _Essential
 ####Local Files
 Local files are the skills, habits, and recipes that are specific to _your_ Habitry Program. These are the things that your team wants to learn in order to be better versions of themselves. You can use our stardard templates or the links to our forms to generate these files yourself.
 
-~###Habitry Site
-When you fork this repository on github, it will automatically generate a new website available at `http://[username].github.io/[project name]`, where `[username]` is your github username and `[project name]` is the name of the repository you created for your Habitry Fork. You just have to go into settings and turn on the project site.~
+~~###Habitry Site
+When you fork this repository on github, it will automatically generate a new website available at `http://[username].github.io/[project name]`, where `[username]` is your github username and `[project name]` is the name of the repository you created for your Habitry Fork. You just have to go into settings and turn on the project site.~~
 
 ###Deciding What Habit to Do First
 The easiest way to decide what habit your team should start with is to make a poll. Pick 3 Habit Templates and ask your team to pick the one that sounds "the most fun" to try first. 
