@@ -16,7 +16,7 @@ Habitry Source is the master set of documents for implemnting the Habitry Method
 ##How to Use
 
 ###Getting Started
-Read the [ReadMe](https://github.com/habitry/habitry_source/blob/master/readme.md), read the [tutorial](https://github.com/habitry/habitry_source/blob/master/Habitry_Tutorial.md) if you want a more "book-like" experience, and read the [getting started guide](https://github.com/habitry/habitry_source/blob/master/Habitry_Tutorial.md) if you want a checklist format.
+Read the [ReadMe](https://github.com/habitry/habitry_source/blob/master/readme.md), read the [tutorial](https://github.com/habitry/habitry_source/blob/master/Habitry_Tutorial.md) if you want a more "book-like" experience, and read the [getting started guide](https://github.com/habitry/habitry_source/blob/master/Getting-Started-Guides/Health-and-Fitness/Health%20and%20Fitness.md) if you want a checklist format.
 
 ###Organization
 Habitry Source is organized into 3 main folder trees like this:
