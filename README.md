@@ -53,10 +53,11 @@ Habit Templates are what get "delivered" to the people you're helping. They're h
 ######Conversation Starters
 Conversation starters are the "posts" you send to the group when you want to get them thinking about the Habit and what they're learning. Some of these posts are "special" such as "Goldilocking" and "Momentum Plans." We use a rough outline to generate these scheduled posts, shown below with a Sunday "start day"
 
-|   | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+
+|---| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|---------|-----------|----------|--------|----------|--------|
-Week 1 | Introduce the Habit | Help personalize the habit | Start a group discussion | Start a group discussion | Introduce Weekend Momentum Plan | Weekend Momentum Plan Check In | Start Review Discussion |
-Week 2 |     | Weekly Private Feedback | Start a group discussion | Start a group discussion | Start a group discussion | Weekend Momentum Plan Check In | Habit Review Discussion |
+| Week 1 | Introduce the Habit | Help personalize the habit | Start a group discussion | Start a group discussion | Introduce Weekend Momentum Plan | Weekend Momentum Plan Check In | Start Review Discussion |
+| Week 2 |     | Weekly Private Feedback | Start a group discussion | Start a group discussion | Start a group discussion | Weekend Momentum Plan Check In | Habit Review Discussion |
 
 We have included templates for each of these formats and made a form for creating your own.
 
@@ -71,8 +72,8 @@ If you don't know how to help people learn these, we recommend taking _Essential
 ####Local Files
 Local files are the skills, habits, and recipes that are specific to _your_ Habitry Program. These are the things that your team wants to learn in order to be better versions of themselves. You can use our stardard templates or the links to our forms to generate these files yourself.
 
-###Habitry Site
-When you fork this repository on github, it will automatically generate a new website available at `http://[username].github.io/[project name]`, where `[username]` is your github username and `[project name]` is the name of the repository you created for your Habitry Fork. You just have to go into settings and turn on the project site.
+~###Habitry Site
+When you fork this repository on github, it will automatically generate a new website available at `http://[username].github.io/[project name]`, where `[username]` is your github username and `[project name]` is the name of the repository you created for your Habitry Fork. You just have to go into settings and turn on the project site.~
 
 ###Deciding What Habit to Do First
 The easiest way to decide what habit your team should start with is to make a poll. Pick 3 Habit Templates and ask your team to pick the one that sounds "the most fun" to try first. 
