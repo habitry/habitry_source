@@ -51,15 +51,9 @@ Habits are the heart of the Habitry Method. Habits are how you get a whole commu
 Habit Templates are what get "delivered" to the people you're helping. They're how you introduce the group practice for a pre-set amount of time (usually 7-14 days) in a way that makes them the most likely to want to do it. These are carefully worded in order to balance the flexibilty needed to allow anyone to "personalize" the habit into a Habit Statement, but share enough commonality to help everyone move in the same direction. We have included a standard template and we also made a [form](https://habitry.typeform.com/to/tWaGnO) you can fill out to generate your own templates.
 
 ######Conversation Starters
-Conversation starters are the "posts" you send to the group when you want to get them thinking about the Habit and what they're learning. Some of these posts are "special" such as "Goldilocking" and "Momentum Plans." We use a rough outline to generate these scheduled posts, shown below with a Sunday "start day"
+Conversation starters are the "posts" you send to the group when you want to get them thinking about the Habit and what they're learning. Some of these posts are "special" such as "Goldilocking" and "Momentum Plans." We use a rough outline to generate these scheduled posts, shown in the "getting started guide."
 
-
-| **Week** | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-|--------|---------|-----------|----------|--------|----------|--------|
-| Week 1 | Introduce the Habit | Help personalize the habit | Start a group discussion | Start a group discussion | Introduce Weekend Momentum Plan | Weekend Momentum Plan Check In | Start Review Discussion |
-| Week 2 |     | Weekly Private Feedback | Start a group discussion | Start a group discussion | Start a group discussion | Weekend Momentum Plan Check In | Habit Review Discussion |
-
-We have included templates for each of these formats and made a form for creating your own.
+We have included templates for each of these formats in "Communications" and made a ~~form for creating your own.~~
 
 ####Recipes
 Recipes are the FAQ section of Habitry Source. These are the "algorithms" or "config files" that help you interact andcontinually  promote a sense of momentum, autonomy, and belonging in your teams. If you have a specific question about "What do I do when..." or "how do I know if..." the recipes are the place to look. You can generate your own recipes using our included templates or our ~~form generator which will help your team create their own recipes.~~
