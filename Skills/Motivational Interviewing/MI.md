@@ -3,7 +3,7 @@ layout: article
 ---
 
 #Motivational Interviewing
-Motivational Interviewing is a way of having conversations with clients about change. By getting clients to talk about why they might want to change, we can help strengthn their motivation to change.
+Motivational Interviewing is a way of having conversations with clients about change. By getting clients to talk about why they might want to change, we can help strengthen their motivation to change.
 
 ##Why it's important for Habitry
 
