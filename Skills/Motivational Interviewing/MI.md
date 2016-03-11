@@ -3,9 +3,12 @@ layout: article
 ---
 
 #Motivational Interviewing
-Quick Summary of what MI is
+Motivational Interviewing is a way of having conversations with clients about change. By getting clients to talk about why they might want to change, we can help strengthn their motivation to change.
 
 ##Why it's important for Habitry
+
+
+
 Connection to process, autonomy, compentence, belonging.
 
 ##History
