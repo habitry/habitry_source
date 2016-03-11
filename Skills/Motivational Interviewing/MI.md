@@ -11,7 +11,7 @@ You can think of Habitry as group conversations about 4 things:
 
 ###1. Autonomy
 
-Talking with clients about what they want to change and why.
+Talking with clients about what they want to change and how they can take ownership of it.
 
 ###2. Competence
 
@@ -23,7 +23,7 @@ Talking with clients about how getting what they want will bring them closer to 
 
 ###4. Process: 
 
-Talking with clients about how to keep moving forward, despite all the ups and down they'll encounter.
+Talking with clients about how to keep moving forward, one step at a time, until they get to where they want to be.
 
 ##History
 Steal this
