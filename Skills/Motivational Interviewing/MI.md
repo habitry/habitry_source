@@ -26,7 +26,8 @@ Talking with clients about how getting what they want will bring them closer to 
 Talking with clients about how to keep moving forward, one step at a time, until they get to where they want to be.
 
 ##History
-Steal this
+Motivational interviewing (MI) refers to a counseling approach in part developed by clinical psychologists Professor William R Miller, Ph.D. and Professor Stephen Rollnick, Ph.D. The concept of motivational interviewing evolved from experience in the treatment of problem drinkers, and was first described by Miller (1983) in an article published in Behavioural Psychotherapy. 
+Source: [Wikipedia] (https://en.wikipedia.org/wiki/Motivational_interviewing)
 
 ##How to practice
 - OEQs [link to /mi/oeq]
